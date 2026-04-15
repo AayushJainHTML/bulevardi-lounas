@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bulevardi Lounas</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍴</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Serif+4:wght@300;400;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    min-height: 100vh;
+    background: linear-gradient(175deg, #faf7f0 0%, #f3ece0 50%, #ede5d5 100%);
+    font-family: 'Source Serif 4', Georgia, serif;
+    color: #2c2419;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 640px; margin: 0 auto; padding: 0 20px; }
+
+  /* Header */
+  .header { padding: 44px 0 20px; }
+  .header-row { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    width: 48px; height: 48px; border-radius: 14px;
+    background: linear-gradient(135deg, #c9a94c 0%, #8b6914 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 24px; box-shadow: 0 4px 16px rgba(139,105,20,0.3); flex-shrink: 0;
+  }
+  .header h1 {
+    font-size: 30px; font-weight: 900; font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.5px; line-height: 1;
+  }
+  .header .date { margin: 6px 0 0; font-size: 14px; color: #8b7d68; font-style: italic; }
+  .status-row { margin: 12px 0 0 60px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 12px; }
+  .status-row .count { color: #a89878; }
+  .status-row .dot { color: #d5cdb8; }
+  .status-row .done { color: #059669; font-weight: 600; }
+
+  /* Progress */
+  .progress-wrap { margin: 16px 0 0 60px; }
+  .progress-label { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; font-size: 12px; color: #c9a94c; font-weight: 600; }
+  .progress-bar { height: 4px; background: #e8e2d6; border-radius: 2px; overflow: hidden; max-width: 280px; }
+  .progress-fill {
+    height: 100%; background: linear-gradient(90deg, #c9a94c, #8b6914);
+    border-radius: 2px; transition: width 0.5s ease;
+  }
+
+  /* Search + Filters */
+  .search-input {
+    width: 100%; padding: 12px 16px; border: 1px solid #ddd5c4; border-radius: 12px;
+    font-size: 14px; background: #fffdf8; color: #2c2419; outline: none;
+    font-family: 'Source Serif 4', Georgia, serif;
+  }
+  .search-input:focus { border-color: #c9a94c; }
+  .filters { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; align-items: center; }
+  .filter-btn {
+    padding: 7px 16px; border-radius: 20px; border: 1.5px solid #d5cdb8;
+    background: transparent; color: #6b5c3e; font-size: 13px; font-weight: 600;
+    cursor: pointer; font-family: 'Source Serif 4', Georgia, serif; transition: all 0.15s;
+  }
+  .filter-btn.active { border: 2px solid #8b6914; background: #8b6914; color: #fff; }
+  .filter-btn:hover:not(.active) { border-color: #b5a070; }
+  .refresh-btn {
+    padding: 7px 14px; border-radius: 20px; border: 1.5px solid #d5cdb8;
+    background: transparent; color: #6b5c3e; font-size: 13px; font-weight: 600;
+    cursor: pointer; font-family: 'Source Serif 4', Georgia, serif; margin-left: auto;
+  }
+
+  /* Legend */
+  .legend { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 3px; }
+  .legend-item span:last-child { font-size: 11px; color: #8b7d68; }
+
+  /* Tags */
+  .tag {
+    display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 0.5px;
+    padding: 2px 6px; border-radius: 4px; line-height: 1.4;
+  }
+  .tag-L { background: #eef4ff; color: #3b6ecc; }
+  .tag-G { background: #eefbef; color: #2d8a3e; }
+  .tag-M { background: #fdf4e7; color: #b5760a; }
+  .tag-V, .tag-VE { background: #f0fdf4; color: #16a34a; }
+
+  /* Star rating */
+  .stars { display: flex; align-items: center; gap: 2px; margin-top: 6px; }
+  .stars .star { font-size: 13px; }
+  .stars .star.filled { color: #f59e0b; }
+  .stars .star.half { color: #f59e0b; opacity: 0.5; }
+  .stars .star.empty { color: #d1d5db; opacity: 0.3; }
+  .stars .rating-num { font-size: 12px; color: #8b8b8b; margin-left: 4px; font-family: 'DM Mono', monospace; }
+
+  /* Cards common */
+  .card {
+    background: #fffdf8; border-radius: 16px; border: 1px solid #e8e2d6;
+    overflow: hidden; cursor: pointer; transition: box-shadow 0.25s, border-color 0.2s;
+    box-shadow: 0 2px 8px rgba(60,50,30,0.04);
+  }
+  .card:hover { box-shadow: 0 4px 16px rgba(60,50,30,0.08); }
+  .card.expanded { border: 1.5px solid #c9a94c; box-shadow: 0 8px 32px rgba(60,50,30,0.12); }
+  .card-header { padding: 18px 20px 14px; }
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; }
+  .card-left { flex: 1; min-width: 0; }
+  .card-name-row { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .card-icon { font-size: 20px; flex-shrink: 0; }
+  .card-name {
+    font-size: 18px; font-weight: 700; font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .card-meta { display: flex; align-items: center; gap: 8px; margin-top: 6px; flex-wrap: wrap; font-size: 12px; color: #8b7d68; }
+  .card-meta .sep { color: #d5cdb8; }
+  .card-right { text-align: right; flex-shrink: 0; margin-left: 12px; }
+  .open-badge {
+    display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px; border-radius: 20px;
+    font-size: 11px; font-weight: 700;
+  }
+  .open-badge.open { background: #ecfdf5; color: #059669; }
+  .open-badge.closed { background: #fef2f2; color: #dc2626; }
+  .open-badge .dot { width: 6px; height: 6px; border-radius: 50%; }
+  .open-badge.open .dot { background: #059669; }
+  .open-badge.closed .dot { background: #dc2626; }
+  .card-hours { font-size: 11px; color: #8b7d68; margin-top: 3px; }
+
+  /* Preview chips */
+  .preview { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .preview-chip {
+    font-size: 12px; color: #6b5c3e; background: #f5f0e6; padding: 4px 10px; border-radius: 12px;
+    max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .preview-more { font-size: 12px; color: #a89878; padding: 4px 6px; }
+  .preview-loading { margin-top: 10px; display: flex; align-items: center; gap: 6px; font-size: 12px; color: #c9a94c; }
+  .preview-empty { margin-top: 10px; font-size: 12px; color: #a89878; }
+
+  /* Expanded menu */
+  .menu-body { padding: 0 20px 18px; border-top: 1px solid #efe9dc; }
+  .menu-loading { padding: 28px 0; text-align: center; }
+  .menu-loading p { font-size: 13px; color: #8b7d68; margin-top: 12px; }
+  .menu-item {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    padding: 10px 0; border-bottom: 1px solid #f0ede8; gap: 12px;
+  }
+  .menu-item-name { font-size: 14px; color: #2c2419; line-height: 1.5; }
+  .menu-item-tags { display: flex; gap: 4px; margin-top: 4px; flex-wrap: wrap; }
+  .menu-item-price { font-size: 14px; font-weight: 600; color: #6b5c3e; white-space: nowrap; font-family: 'DM Mono', monospace; }
+  .menu-empty { padding: 18px 0; font-size: 13px; color: #8b7d68; }
+  .menu-link {
+    display: inline-block; margin-top: 14px; font-size: 13px; color: #8b6914;
+    text-decoration: none; font-weight: 600; border-bottom: 1px dashed #c9a94c;
+  }
+
+  /* Link card */
+  .link-card a { text-decoration: none; display: block; }
+  .link-banner {
+    margin-top: 12px; display: flex; align-items: center; justify-content: space-between;
+    background: #f8f4eb; border-radius: 10px; padding: 10px 14px;
+  }
+  .link-banner-label { font-size: 13px; color: #8b6914; font-weight: 600; }
+  .link-banner-sub { font-size: 11px; color: #a89878; margin-top: 2px; }
+  .link-banner-arrow { font-size: 20px; color: #c9a94c; }
+
+  /* Spinner */
+  @keyframes bspin { to { transform: rotate(360deg); } }
+  .spinner {
+    display: inline-block; border: 2px solid #e8e2d6; border-top-color: #8b6914;
+    border-radius: 50%; animation: bspin 0.8s linear infinite;
+  }
+  .spinner-sm { width: 12px; height: 12px; }
+  .spinner-md { width: 20px; height: 20px; }
+  .spinner-lg { width: 26px; height: 26px; border-width: 3px; }
+
+  /* Footer */
+  .footer { text-align: center; padding: 20px 0 44px; font-size: 11px; color: #a89878; line-height: 1.7; }
+
+  /* Cards list */
+  .cards-list { display: flex; flex-direction: column; gap: 14px; padding: 20px 0 60px; }
+  .no-results { text-align: center; padding: 40px 0; color: #8b7d68; font-size: 15px; }
+
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <div class="header-row">
+      <div class="logo">🍴</div>
+      <div>
+        <h1>Bulevardi Lounas</h1>
+        <p class="date" id="dateStr"></p>
+      </div>
+    </div>
+    <div id="progressWrap" class="progress-wrap hidden">
+      <div class="progress-label">
+        <span class="spinner spinner-sm"></span>
+        <span id="progressText">Haetaan lounaat.info...</span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+    </div>
+    <div id="statusRow" class="status-row hidden">
+      <span class="count" id="countText"></span>
+      <span class="dot">·</span>
+      <span class="done" id="doneText"></span>
+    </div>
+  </div>
+
+  <!-- Search + Filters -->
+  <div>
+    <input type="text" class="search-input" id="searchInput" placeholder="Hae ravintolaa tai ruokaa...">
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">Kaikki</button>
+      <button class="filter-btn" data-filter="open">⏰ Auki nyt</button>
+      <button class="filter-btn" data-filter="veg">🌱 Kasvis</button>
+      <button class="refresh-btn" id="refreshBtn" onclick="fetchAllMenus()">🔄 Päivitä</button>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><span class="tag tag-L">L</span><span>Laktoositon</span></div>
+      <div class="legend-item"><span class="tag tag-G">G</span><span>Gluteeniton</span></div>
+      <div class="legend-item"><span class="tag tag-M">M</span><span>Maidoton</span></div>
+      <div class="legend-item"><span class="tag tag-V">V</span><span>Kasvis</span></div>
+      <div class="legend-item"><span class="tag tag-VE">VE</span><span>Vegaaninen</span></div>
+    </div>
+  </div>
+
+  <!-- Cards -->
+  <div class="cards-list" id="cardsList"></div>
+
+  <div class="footer">
+    Lounaat.info-ravintolat päivittyvät automaattisesti · Muiden ravintoloiden linkit vievät suoraan lounas-sivulle
+  </div>
+</div>
+
+<script>
+// ── Data ──
+const RESTAURANTS = [
+  // AUTO (lounaat.info)
+  { id:"southpark", name:"Southpark", address:"Bulevardi 40", cuisine:"Bistro", icon:"🍽", rating:4.2, lunchHours:"10:30–14:00", type:"auto", lounaat:"southpark", website:"https://www.southparkrestaurant.fi/lounas" },
+  { id:"kiltakellari", name:"Sodexo Kiltakellari", address:"Bulevardi 44–54", cuisine:"Lounas", icon:"🥣", rating:4.1, lunchHours:"10:30–13:30", type:"auto", lounaat:"sodexo-kiltakellari", website:"https://www.lounaat.info/lounas/sodexo-kiltakellari/helsinki" },
+  { id:"brod", name:"Ravintola Bröd", address:"Bulevardi 26", cuisine:"Nordic", icon:"🌿", rating:4.0, lunchHours:"11:00–13:00", type:"auto", lounaat:"ravintola-brod-punavuori", website:"https://www.lounaat.info/lounas/ravintola-brod-punavuori/helsinki" },
+  { id:"levant", name:"Levant Bulevardi", address:"Bulevardi 15", cuisine:"Middle Eastern", icon:"🧆", rating:4.6, lunchHours:"11:00–14:30", type:"auto", lounaat:"levant-bulevardi", website:"https://www.levant.fi/en/restaurants/" },
+  { id:"lonkka", name:"Lönkka Bull & Bottle", address:"Albertinkatu 36", cuisine:"Steak & Bistro", icon:"🥩", rating:4.3, lunchHours:"11:00–14:00", type:"auto", lounaat:"ravintola-lonkka", website:"https://www.lounaat.info/lounas/ravintola-lonkka/helsinki" },
+  { id:"mekong", name:"Mekong", address:"Bulevardi 14", cuisine:"Vietnamese", icon:"🍲", rating:4.0, lunchHours:"11:00–14:00", type:"auto", lounaat:"mekong", website:"https://www.lounaat.info/lounas/mekong/helsinki" },
+  { id:"salve", name:"Salve", address:"Hietalahdenkatu 11", cuisine:"Osuuskauppa", icon:"🍴", rating:3.8, lunchHours:"11:00–14:00", type:"auto", lounaat:"salve", website:"https://www.lounaat.info/lounas/salve/helsinki" },
+  // LINK cards
+  { id:"liemi", name:"Lie Mi Bulevardi", address:"Bulevardi 21", cuisine:"Vietnamese", icon:"🍜", rating:4.1, lunchHours:"11:00–14:30", type:"link", website:"https://www.facebook.com/p/Lie-Mi-Bulevardi-100054875263646/", linkLabel:"Facebook — päivittäinen lounaslista" },
+  { id:"pamela", name:"Restaurant Pamela", address:"Bulevardi 12", cuisine:"Open Fire Grill", icon:"🔥", rating:4.3, lunchHours:"11:00–15:00", type:"link", website:"https://www.pamela.fi/en/weekday-lunch/", linkLabel:"pamela.fi — arkilounas" },
+  { id:"toscanini", name:"Restaurant Toscanini", address:"Bulevardi 4", cuisine:"Italian", icon:"🍝", rating:4.2, lunchHours:"11:00–14:00", type:"link", website:"https://www.toscanini.fi/en/lunch", linkLabel:"toscanini.fi — lounas" },
+  { id:"gaijin", name:"Restaurant Gaijin", address:"Bulevardi 6", cuisine:"Asian Fusion", icon:"🥢", rating:4.2, lunchHours:"11:30–15:00", type:"link", website:"https://www.gaijin.fi/menu/lounas/lounasmenut", linkLabel:"gaijin.fi — lunch menu" },
+  { id:"fazer", name:"Fazer Café", address:"Bulevardi 7", cuisine:"Café / Lounas", icon:"☕", rating:4.2, lunchHours:"07:30–14:00", type:"link", website:"https://www.fazer.fi/ravintolat/fazer-cafe-bulevardi/lounaslista/", linkLabel:"fazer.fi — lounaslista" },
+];
+
+// ── State ──
+let menus = {};
+let loadingIds = new Set();
+let expandedId = null;
+let activeFilter = "all";
+let searchQuery = "";
+let fetching = false;
+
+// ── Helpers ──
+function isOpenNow(timeStr) {
+  const m = timeStr.match(/(\d+):(\d+)\s*[–-]\s*(\d+):(\d+)/);
+  if (!m) return null;
+  const now = new Date();
+  const day = now.getDay();
+  if (day === 0 || day === 6) return false;
+  const nowMin = now.getHours() * 60 + now.getMinutes();
+  return nowMin >= parseInt(m[1]) * 60 + parseInt(m[2]) && nowMin < parseInt(m[3]) * 60 + parseInt(m[4]);
+}
+
+function starsHTML(rating) {
+  let h = '';
+  for (let i = 0; i < 5; i++) {
+    if (i < Math.floor(rating)) h += '<span class="star filled">★</span>';
+    else if (i === Math.floor(rating) && rating % 1 > 0) h += '<span class="star half">★</span>';
+    else h += '<span class="star empty">★</span>';
+  }
+  h += `<span class="rating-num">${rating.toFixed(1)}</span>`;
+  return h;
+}
+
+function tagsHTML(tags) {
+  if (!tags || !tags.length) return '';
+  return tags.map(t => `<span class="tag tag-${t}" title="${t}">${t}</span>`).join('');
+}
+
+function setDate() {
+  const now = new Date();
+  const days = ["sunnuntai","maanantai","tiistai","keskiviikko","torstai","perjantai","lauantai"];
+  const months = ["tammikuuta","helmikuuta","maaliskuuta","huhtikuuta","toukokuuta","kesäkuuta","heinäkuuta","elokuuta","syyskuuta","lokakuuta","marraskuuta","joulukuuta"];
+  document.getElementById('dateStr').textContent = `${days[now.getDay()]} ${now.getDate()}. ${months[now.getMonth()]}`;
+}
+
+// ── Render ──
+function render() {
+  const list = document.getElementById('cardsList');
+  const filtered = RESTAURANTS.filter(r => {
+    const items = menus[r.id] || [];
+    if (activeFilter === 'veg') {
+      if (r.type === 'link') return false;
+      if (!items.some(m => m.tags && (m.tags.includes('V') || m.tags.includes('VE')))) return false;
+    }
+    if (activeFilter === 'open' && !isOpenNow(r.lunchHours)) return false;
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      return r.name.toLowerCase().includes(q) || r.cuisine.toLowerCase().includes(q)
+        || r.address.toLowerCase().includes(q) || items.some(m => m.name.toLowerCase().includes(q));
+    }
+    return true;
+  });
+
+  if (!filtered.length) {
+    list.innerHTML = '<div class="no-results">Ei tuloksia — kokeile toista hakua.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(r => r.type === 'auto' ? renderAutoCard(r) : renderLinkCard(r)).join('');
+}
+
+function renderAutoCard(r) {
+  const items = menus[r.id] || [];
+  const loading = loadingIds.has(r.id);
+  const expanded = expandedId === r.id;
+  const open = isOpenNow(r.lunchHours);
+
+  let preview = '';
+  if (!expanded) {
+    if (items.length) {
+      const chips = items.slice(0, 2).map(i => `<span class="preview-chip">${esc(i.name)}</span>`).join('');
+      const more = items.length > 2 ? `<span class="preview-more">+${items.length - 2}</span>` : '';
+      preview = `<div class="preview">${chips}${more}</div>`;
+    } else if (loading) {
+      preview = `<div class="preview-loading"><span class="spinner spinner-sm"></span> Haetaan menua...</div>`;
+    } else {
+      preview = `<div class="preview-empty">Klikkaa nähdäksesi menu</div>`;
+    }
+  }
+
+  let body = '';
+  if (expanded) {
+    if (loading) {
+      body = `<div class="menu-body"><div class="menu-loading"><span class="spinner spinner-lg"></span><p>Haetaan lounaat.info...</p></div></div>`;
+    } else if (items.length) {
+      const rows = items.map(i => `
+        <div class="menu-item">
+          <div style="flex:1">
+            <div class="menu-item-name">${esc(i.name)}</div>
+            ${i.tags && i.tags.length ? `<div class="menu-item-tags">${tagsHTML(i.tags)}</div>` : ''}
+          </div>
+          ${i.price ? `<span class="menu-item-price">${esc(i.price)}</span>` : ''}
+        </div>
+      `).join('');
+      body = `<div class="menu-body"><div style="padding-top:4px">${rows}</div><a class="menu-link" href="${r.website}" target="_blank" rel="noopener">Ravintolan sivut →</a></div>`;
+    } else {
+      body = `<div class="menu-body"><div class="menu-empty">Menua ei löytynyt lounaat.info:sta tänään.</div><a class="menu-link" href="${r.website}" target="_blank" rel="noopener">Ravintolan sivut →</a></div>`;
+    }
+  }
+
+  return `
+    <div class="card ${expanded ? 'expanded' : ''}" onclick="toggleCard('${r.id}')">
+      <div class="card-header">
+        ${cardHeaderHTML(r, open)}
+        ${preview}
+      </div>
+      ${body}
+    </div>
+  `;
+}
+
+function renderLinkCard(r) {
+  const open = isOpenNow(r.lunchHours);
+  return `
+    <div class="card link-card">
+      <a href="${r.website}" target="_blank" rel="noopener">
+        <div class="card-header">
+          ${cardHeaderHTML(r, open)}
+          <div class="link-banner">
+            <div>
+              <div class="link-banner-label">${esc(r.linkLabel)}</div>
+              <div class="link-banner-sub">Avaa lounaslista ↗</div>
+            </div>
+            <span class="link-banner-arrow">↗</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  `;
+}
+
+function cardHeaderHTML(r, open) {
+  const openClass = open ? 'open' : 'closed';
+  const openText = open ? 'Auki' : 'Kiinni';
+  return `
+    <div class="card-top">
+      <div class="card-left">
+        <div class="card-name-row">
+          <span class="card-icon">${r.icon}</span>
+          <span class="card-name">${esc(r.name)}</span>
+        </div>
+        <div class="card-meta">
+          <span>${esc(r.address)}</span><span class="sep">·</span><span>${esc(r.cuisine)}</span>
+        </div>
+      </div>
+      <div class="card-right">
+        <div class="open-badge ${openClass}"><span class="dot"></span>${openText}</div>
+        <div class="card-hours">${r.lunchHours}</div>
+      </div>
+    </div>
+    <div class="stars">${starsHTML(r.rating)}</div>
+  `;
+}
+
+function esc(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function toggleCard(id) {
+  expandedId = expandedId === id ? null : id;
+  render();
+}
+
+// ── Load menus.json (updated daily by GitHub Actions) ──
+async function fetchAllMenus() {
+  if (fetching) return;
+  fetching = true;
+
+  const autoR = RESTAURANTS.filter(r => r.type === 'auto');
+  menus = {};
+  loadingIds = new Set(autoR.map(r => r.id));
+
+  const pw = document.getElementById('progressWrap');
+  const sr = document.getElementById('statusRow');
+  const rb = document.getElementById('refreshBtn');
+  pw.classList.remove('hidden');
+  sr.classList.add('hidden');
+  rb.style.display = 'none';
+  document.getElementById('progressText').textContent = 'Ladataan menuja...';
+  document.getElementById('progressFill').style.width = '40%';
+
+  render();
+
+  let fetchedAt = null;
+  try {
+    // Cache-bust so we always see the freshest commit
+    const resp = await fetch(`menus.json?t=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    const bySlug = data.menus || {};
+    fetchedAt = data.fetchedAt;
+    autoR.forEach(r => {
+      menus[r.id] = bySlug[r.lounaat] || [];
+      loadingIds.delete(r.id);
+    });
+    document.getElementById('progressFill').style.width = '100%';
+    render();
+  } catch (err) {
+    console.error('Load error:', err);
+    autoR.forEach(r => loadingIds.delete(r.id));
+    render();
+  }
+
+  setTimeout(() => {
+    pw.classList.add('hidden');
+    sr.classList.remove('hidden');
+    document.getElementById('countText').textContent = `${RESTAURANTS.length} ravintolaa`;
+    if (fetchedAt) {
+      const dt = new Date(fetchedAt);
+      document.getElementById('doneText').textContent =
+        `✓ päivitetty ${dt.toLocaleTimeString('fi-FI', { hour: '2-digit', minute: '2-digit' })}`;
+    }
+    rb.style.display = '';
+  }, 300);
+
+  fetching = false;
+}
+
+// ── Event listeners ──
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  render();
+});
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    render();
+  });
+});
+
+// ── Init ──
+setDate();
+render();
+fetchAllMenus();
+</script>
+</body>
+</html>
