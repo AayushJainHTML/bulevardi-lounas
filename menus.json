@@ -1,13 +1,244 @@
 {
-  "fetchedAt": null,
-  "date": "",
+  "fetchedAt": "2026-04-15T11:11:32.384417+03:00",
+  "date": "15.4.",
   "menus": {
-    "southpark": [],
-    "sodexo-kiltakellari": [],
-    "ravintola-brod-punavuori": [],
-    "levant-bulevardi": [],
-    "ravintola-lonkka": [],
-    "mekong": [],
-    "salve": []
+    "southpark": [
+      {
+        "name": "Inkiväärillä maustettu porkkana-bataattikeitto",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Naudanlihalla täytettyjä paprikoita ja paahdettua timjamiperunaa sekä yrtti-jogurttikastike",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Hernemurulla täytettyjä paprikoita ja paahdettua timjamiperunaa sekä yrtti-jogurttikastiketta",
+        "price": "14,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Paistettua lohta, annos perunaa, kevätkasviksia ja nokkos-beurre blanc",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Mureaa naudan kulmapaistia, paahdettua selleriä, omenaslaw ja saksanpähkinämajoneesi",
+        "price": "16,90€",
+        "tags": []
+      }
+    ],
+    "sodexo-kiltakellari": [
+      {
+        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "ravintola-brod-punavuori": [
+      {
+        "name": "Kukkakaalikeitto",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Kermassa haudutettua kirjolohta",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Kasviskoftaa v,",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Jugurttikastiketta",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Tilliperunaa v,",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Päivän jälkiruoka",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "levant-bulevardi": [
+      {
+        "name": "Nautaa teriyaki-kastikkeessa",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "ravintola-lonkka": [
+      {
+        "name": "Rapeaa kanaa, perunasalaattia ja bbq-kastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Mereneläväpastaa katkaravuilla, sinisimpukoilla ja mustekalalla, sitruunavoikastiketta ja yrttejä",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kasvispihvi, höyrytetty riisi, chimichurri-kastike ja paahdetut padron- paprikat",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Amerikkalainen juustoburgeri",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Perunasalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Höyrytettyä riisiä ja padron-paprikoita",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Bbq-kastike",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "mekong": [
+      {
+        "name": "12,7e Lunch buffet 27/10 Lunch buffet includes salad bar, tea/coffee and desert",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "2. Phở bò tái nạm - beef pho soup Traditional vietnamese pho rice noodles soup with beef fillet and brisket, prepared in southern style",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "3. Bún thịt xào contains peanuts Lemongrass stir-fried pork tenderloin served with rice noodles, roasted peanuts, green salad, pickled carrot and daikon, and sweet fish sauce",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "4. Hủ tiếu chay- vegan soup contains peanuts, celery, soya, wheat Hủ tiếu tapioca noodles in vegetable broth, topped w/ roasted peanuts, mushroom, bean curd, fried vegan wonton, soy sausage, fried onions, and sliced tofu",
+        "price": "15,90€",
+        "tags": []
+      },
+      {
+        "name": "5. Vegan phở Rice noodles in vegetable broth, topped w/ vegan chicken, mushroom, tofu, mung sprouts and herbs",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "salve": [
+      {
+        "name": "Hinta:  Lounaskeitto",
+        "price": "11,90€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
+        "price": "14,60€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kermainen pekonipastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "price": "22,00€",
+        "tags": []
+      }
+    ]
   }
 }
