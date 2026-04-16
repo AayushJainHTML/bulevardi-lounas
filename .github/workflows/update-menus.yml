@@ -5,7 +5,9 @@ on:
     # Every weekday at 09:30 Helsinki time (06:30 UTC summer / 07:30 UTC winter)
     # Cron uses UTC. We run twice to cover both, idempotent so the second is cheap.
     - cron: "30 6 * * 1-5"
-    - cron: "30 7 * * 1-5"
+    - cron: "0 8 * * 1-5"
+    - cron: "30 9 * * 1-5"
+    - cron: "0 11 * * 1-5"
   workflow_dispatch: # lets you trigger manually from the Actions tab
 
 permissions:
