@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-04-15T11:11:32.384417+03:00",
-  "date": "15.4.",
+  "fetchedAt": "2026-04-16T11:09:40.993794+03:00",
+  "date": "16.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Inkiväärillä maustettu porkkana-bataattikeitto",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Naudanlihalla täytettyjä paprikoita ja paahdettua timjamiperunaa sekä yrtti-jogurttikastike",
+        "name": "Rapeaa kanaa, pähkinä-crème fraîchea ja paahdettuja uunijuureksia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hernemurulla täytettyjä paprikoita ja paahdettua timjamiperunaa sekä yrtti-jogurttikastiketta",
+        "name": "Rapea kanaton leike, pähkinä-crème fraîche ja paahdettuja uunijuureksia",
         "price": "14,90€",
         "tags": [
           "V"
@@ -42,27 +42,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Kukkakaalikeitto",
+        "name": "Myskikurpitsakeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kermassa haudutettua kirjolohta",
+        "name": "Lammaspyörykät tomaattikastikkeessa l ,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasviskoftaa v,",
+        "name": "Kukkakaaliwingsejä v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Jugurttikastiketta",
+        "name": "Chipotlemajoneesi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Tilliperunaa v,",
+        "name": "Kermaperunaa",
         "price": "",
         "tags": []
       },
@@ -74,12 +74,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Nautaa teriyaki-kastikkeessa",
+        "name": "Naudanlihaa jogurtti-sahramikastikkeella",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Kasvispata g ve",
         "price": "",
         "tags": []
       }
@@ -210,33 +210,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
+        "name": "Hinta:  Kirjolohta, hollandaisekastike ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Jauhemaksapihvejä, pekonikastiketta ja perunamuusial",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kermainen pekonipastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
-        "price": "22,00€",
         "tags": []
       }
     ]
