@@ -1,32 +1,32 @@
 {
-  "fetchedAt": "2026-04-17T14:52:40.816782+03:00",
-  "date": "17.4.",
+  "fetchedAt": "2026-04-20T11:32:32.990005+03:00",
+  "date": "20.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Maissichowder täyteläinen amerikkalaistyyppinen maissikeitto",
+        "name": "Aurajuustolla maustettu punajuurikeitto",
         "price": "12,90€",
         "tags": []
       },
       {
-        "name": "Pulled pork -burger ja ranskalaiset sekä dippi",
+        "name": "Toscanalaista kanaa- kanaa silkkisessä tomaatti-kerma kastikkeessa, baby pinaatin kanssa ja paahdettuja valkosipuliperunoita",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Pulled hernis -burger ja ranskalaiset sekä dippi l g , veg",
+        "name": "Toscanalainen tofu – tofua silkkisessä tomaatti-kermakastikkeessa, babypinaatin kanssa ja paahdettuja valkosipuliperunoita",
         "price": "14,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Paistettua lohta, annos perunaa, kevätkasviksia ja nokkos-beurre blanc",
+        "name": "Risotto gamberetti-rapu risotto",
         "price": "16,90€",
         "tags": []
       },
       {
-        "name": "Mureaa naudan kulmapaistia, paahdettua selleriä, omenaslaw ja saksanpähkinämajoneesi",
+        "name": "Naudan paahtopaistia, grillattua sydän salaattia, dijon-rakuuna kastike ja paahtoperunaa",
         "price": "16,90€",
         "tags": []
       }
@@ -40,121 +40,46 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Lounas suljettu",
+        "name": "Yrttinen tomaattikeitto v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Pidätämme oikeuden lounaslistan muutoksiin",
+        "name": "Naudanlihapullat pippurikastikkeessa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Kasvispyörykät v,",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Perunamuusia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Päivän jälkiruoka",
         "price": "",
         "tags": []
       }
     ],
     "levant-bulevardi": [
       {
-        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "name": "Sitruunaista kanaa ja perunoita",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Friday grill fiesta: grillatut kasvisvartaat g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Rapeaa kanaa, perunasalaattia ja bbq-kastiketta",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Mereneläväpastaa katkaravuilla, sinisimpukoilla ja mustekalalla, sitruunavoikastiketta ja yrttejä",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kasvispihvi, höyrytetty riisi, chimichurri-kastike ja paahdetut padron- paprikat",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Amerikkalainen juustoburgeri",
-        "price": "16,50€",
-        "tags": []
-      },
-      {
-        "name": "Viikon lounaspihvit",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Naudan flank steak 200g",
-        "price": "25,00€",
-        "tags": []
-      },
-      {
-        "name": "Naudan sisäfilepihvi 180g",
-        "price": "42,00€",
-        "tags": []
-      },
-      {
-        "name": "Black angus ulkofile 250g",
-        "price": "45,00€",
-        "tags": []
-      },
-      {
-        "name": "Marmori entrecote 300g",
-        "price": "56,00€",
-        "tags": []
-      },
-      {
-        "name": "Valitse lisuke",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Ranskalaiset ja ketsuppi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Vihersalaatti",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Perunasalaatti",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Höyrytettyä riisiä ja padron-paprikoita",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Valitse kastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Punaviinikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Dijon- pippurikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Chimichurri",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Bbq-kastike",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
@@ -193,27 +118,27 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastiketta ja perunamuusial",
+        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Omenaista porsaanposkea ja valkosipuliperunoitagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermainen pekonipastal",
+        "name": "Hinta:  Vuohenjuustopastal",
         "price": "13,50€",
         "tags": []
       },
       {
-        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "name": "Hinta:  Kasvispyttipannugve",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
         "price": "22,00€",
         "tags": []
       }
