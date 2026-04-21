@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-04-20T15:05:08.520247+03:00",
-  "date": "20.4.",
+  "fetchedAt": "2026-04-21T11:16:00.733777+03:00",
+  "date": "21.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Aurajuustolla maustettu punajuurikeitto",
+        "name": "Paahdettu paprika-bataatti keitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Toscanalaista kanaa- kanaa silkkisessä tomaatti-kerma kastikkeessa, baby pinaatin kanssa ja paahdettuja valkosipuliperunoita",
+        "name": "Rapea possunleike, talon remouladella ja muhennetulla perunalla, sekä kasviksilla",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Toscanalainen tofu – tofua silkkisessä tomaatti-kermakastikkeessa, babypinaatin kanssa ja paahdettuja valkosipuliperunoita",
+        "name": "Rapea kasvisleike, talon remouladella ja muhennetulla perunalla, sekä kasviksilla l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -40,22 +42,22 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Yrttinen tomaattikeitto v,",
+        "name": "Palsternakkakeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Naudanlihapullat pippurikastikkeessa",
+        "name": "Paistettua kirjolohta ja hollandaisekastiketta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasvispyörykät v,",
+        "name": "Kasvis-tortelliinit tomaattikastikkeessa",
         "price": "",
         "tags": []
       },
       {
-        "name": "Perunamuusia",
+        "name": "Paahdettua perunaa v,",
         "price": "",
         "tags": []
       },
@@ -67,19 +69,109 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunaista kanaa ja perunoita",
+        "name": "Lammas jogurtti-sahramikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
+        "name": "Paahdetut vihreät härkäpavut valkosipuli-korianterikastikkeessa ve",
         "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Hitaasti kypsennettyä porsaan kassleria, punaista currya, höyrytettyä riisiä ja paahdettua munakoisoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Katkarapu skagen uuniperunan ja mummonkurkun kera",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Paistettuja falafeleja, tomaattikastiketta, tsatsikia ja höyrytettyä riisiä",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Sriracha-juustoburger",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Uuniperuna ja mummonkurkku",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Höyrytettyä riisiä ja paahdettua munakoisoa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen currykastike",
         "price": "",
         "tags": []
       }
@@ -118,12 +210,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
+        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
