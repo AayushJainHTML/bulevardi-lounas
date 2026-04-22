@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-04-21T14:59:58.008088+03:00",
-  "date": "21.4.",
+  "fetchedAt": "2026-04-22T11:14:05.838881+03:00",
+  "date": "22.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahdettu paprika-bataatti keitto",
+        "name": "Kookos-red curry kasvis keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Rapea possunleike, talon remouladella ja muhennetulla perunalla, sekä kasviksilla",
+        "name": "Paholaisen kanaa – kanaa vuohenjuustolla ja tulisen makealla talonhillolla sekä paahtoperunaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Rapea kasvisleike, talon remouladella ja muhennetulla perunalla, sekä kasviksilla l g , veg",
+        "name": "Punajuuri vuohenjuusto pihvi tulisen makealla tallon hillolla sekä paahtoperunaa",
         "price": "14,90€",
         "tags": [
           "V"
@@ -42,22 +42,22 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Palsternakkakeitto",
+        "name": "Pinaattikeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Paistettua kirjolohta ja hollandaisekastiketta",
+        "name": "Valkosipuli-yrtti täytteinen lammaspihvi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasvis-tortelliinit tomaattikastikkeessa",
+        "name": "Halloumi-punajuuripihvi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Paahdettua perunaa v,",
+        "name": "Kermaperunat",
         "price": "",
         "tags": []
       },
@@ -69,13 +69,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammas jogurtti-sahramikastikkeessa",
+        "name": "Teriyaki-kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Paahdetut vihreät härkäpavut valkosipuli-korianterikastikkeessa ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -210,12 +210,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
+        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
