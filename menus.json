@@ -1,26 +1,31 @@
 {
-  "fetchedAt": "2026-04-22T14:59:46.144327+03:00",
-  "date": "22.4.",
+  "fetchedAt": "2026-04-23T11:17:26.305496+03:00",
+  "date": "23.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Kookos-red curry kasvis keitto",
+        "name": "Hernekeitto ja palvikinkkua",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Paholaisen kanaa – kanaa vuohenjuustolla ja tulisen makealla talonhillolla sekä paahtoperunaa",
+        "name": "Rapeaa calabrese salamia ja avokado pastaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Punajuuri vuohenjuusto pihvi tulisen makealla tallon hillolla sekä paahtoperunaa",
+        "name": "Paistettua chilikqornia ja avokadopastaa l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
         ]
+      },
+      {
+        "name": "Pannukakkua ja hilloa",
+        "price": "",
+        "tags": []
       },
       {
         "name": "Risotto gamberetti-rapu risotto",
@@ -42,22 +47,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Pinaattikeitto",
+        "name": "Kermainen lohikeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Valkosipuli-yrtti täytteinen lammaspihvi",
+        "name": "Yrttinen kanapasta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Halloumi-punajuuripihvi",
+        "name": "Kasviskofta v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kermaperunat",
+        "name": "Jugurttikastiketta",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Couscous",
         "price": "",
         "tags": []
       },
@@ -69,13 +79,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Teriyaki-kanaa",
+        "name": "Naudanliha tagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
-        "price": "",
+        "name": "Tagine ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -205,33 +215,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
+        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vuohenjuustopastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kasvispyttipannugve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
-        "price": "22,00€",
         "tags": []
       }
     ]
