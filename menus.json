@@ -1,31 +1,24 @@
 {
-  "fetchedAt": "2026-04-23T14:59:07.020946+03:00",
-  "date": "23.4.",
+  "fetchedAt": "2026-04-24T11:30:01.699669+03:00",
+  "date": "24.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto ja palvikinkkua",
+        "name": "Persilja- feta keitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Rapeaa calabrese salamia ja avokado pastaa",
+        "name": "Grillattu hunajakana-pita ja maukas tomaattiriisi",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paistettua chilikqornia ja avokadopastaa l g , veg",
+        "name": "Halloumipita ja maukas tomaattiriisi l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
         ]
-      },
-      {
-        "name": "Pannukakkua ja hilloa",
-        "price": "",
-        "tags": []
       },
       {
         "name": "Risotto gamberetti-rapu risotto",
@@ -47,45 +40,25 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Kermainen lohikeitto",
+        "name": "Lounas suljettu",
         "price": "",
         "tags": []
       },
       {
-        "name": "Yrttinen kanapasta",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Kasviskofta v,",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Jugurttikastiketta",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Couscous",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Päivän jälkiruoka",
+        "name": "Pidätämme oikeuden lounaslistan muutoksiin",
         "price": "",
         "tags": []
       }
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanliha tagine",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "14,50€",
+        "name": "Friday grill fiesta: grillatut kasvisvartaat g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -215,18 +188,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
+        "name": "Hinta:  Paneroitu kampela sitruunaisella kastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
+        "name": "Hinta:  Riistakäristys ja perunamuusigl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vuohenjuustopastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kasvispyttipannugve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
+        "price": "22,00€",
         "tags": []
       }
     ]
