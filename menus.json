@@ -1,24 +1,26 @@
 {
-  "fetchedAt": "2026-04-28T15:23:41.956182+03:00",
-  "date": "28.4.",
+  "fetchedAt": "2026-04-29T11:37:02.753462+03:00",
+  "date": "29.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Parsakaali-cheddar keitto",
+        "name": "Chipotlella maustettu kurpitsakeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Paistettua porsaan sisäfilettä pippurikermakastikkeessa, perunapaistosta ja yrttisiä kevään kasviksia",
+        "name": "Korealaiset kanatortillat – korealaisittain maustettua rapeaa kanaa, pikavarhaiskaali-kimchiä, valkosipuli-seesamimajoneesia ja raikasta pikkeli-yrttisalaattia m g , kala",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paistettua quornia pippurikermakastikkeessa, perunapaistosta ja yrttisiä kevään kasviksia",
+        "name": "Korealaiset vege tortillat – korealaisittain maustettua rapeaa tofua, pikavarhaiskaali-kimchiä, valkosipuli-seesamimajoneesia ja raikasta pikkeli-yrttisalaattia m g , veg",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Paistettua rapeaa puna-ahventa, krossattua perunaa, kauden kasviksia ja tilli-crème fraîchea",
@@ -33,12 +35,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Vuohenjuustogratinoitua punajuurta ja kasvisriisiä",
+        "name": "Kiltakellarin kasvispihvejä ja vihannesriisiä",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Paneroitua kampelaa, valkosipuliperunoita ja tartarkastiketta",
+        "name": "Smetanaista naudanlihapataa ja kasvisriisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -50,27 +52,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Bataattikeitto",
+        "name": "Palsternakkakeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Paneroitua kampela",
+        "name": "Kanaa tomaattisessa aurajuustokastikkeessa,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kikherne-porkkanapihvit v,",
+        "name": "Kasvis-jalapeno nugetit v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Ranskalaiset v,",
+        "name": "Jugurttikastiketta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Tartarkastiketta",
+        "name": "Riisi v,",
         "price": "",
         "tags": []
       },
@@ -82,13 +84,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kasvispata g ve",
-        "price": "",
+        "name": "Kanaa fajitas-tyyliin",
+        "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Lammaspata",
-        "price": "14,50€",
+        "name": "Kermaisia kasviksia",
+        "price": "",
         "tags": []
       }
     ],
@@ -223,12 +225,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
