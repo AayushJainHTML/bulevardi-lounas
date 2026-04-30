@@ -1,26 +1,29 @@
 {
-  "fetchedAt": "2026-04-29T15:17:52.762650+03:00",
-  "date": "29.4.",
+  "fetchedAt": "2026-04-30T10:02:48.281818+03:00",
+  "date": "30.4.",
   "menus": {
     "southpark": [
       {
-        "name": "Chipotlella maustettu kurpitsakeitto",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Korealaiset kanatortillat – korealaisittain maustettua rapeaa kanaa, pikavarhaiskaali-kimchiä, valkosipuli-seesamimajoneesia ja raikasta pikkeli-yrttisalaattia m g , kala",
+        "name": "Keväinen kanapasta sinihomejuustolla",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Korealaiset vege tortillat – korealaisittain maustettua rapeaa tofua, pikavarhaiskaali-kimchiä, valkosipuli-seesamimajoneesia ja raikasta pikkeli-yrttisalaattia m g , veg",
+        "name": "Parsakaali-sinihomejuustopasta",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
+      },
+      {
+        "name": "Pannukakkua ja hilloa",
+        "price": "",
+        "tags": []
       },
       {
         "name": "Paistettua rapeaa puna-ahventa, krossattua perunaa, kauden kasviksia ja tilli-crème fraîchea",
@@ -35,12 +38,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Kiltakellarin kasvispihvejä ja vihannesriisiä",
+        "name": "Kasvislasagne",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Smetanaista naudanlihapataa ja kasvisriisiä",
+        "name": "Parmesaan kuorrutettua broileria ja basmatiriisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -52,27 +55,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Palsternakkakeitto",
+        "name": "Purjo-perunasosekeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kanaa tomaattisessa aurajuustokastikkeessa,",
+        "name": "Uunikirjolohta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasvis-jalapeno nugetit v,",
+        "name": "Bataattipihvit v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Jugurttikastiketta",
+        "name": "Sienikastiketta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Riisi v,",
+        "name": "Paahdettua perunaa v,",
         "price": "",
         "tags": []
       },
@@ -84,12 +87,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Lammascurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Teriyaki-kasvikset g ve",
         "price": "",
         "tags": []
       }
@@ -220,33 +223,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
+        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Lihapullapastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
-        "price": "22,00€",
         "tags": []
       }
     ]
