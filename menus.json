@@ -1,98 +1,36 @@
 {
-  "fetchedAt": "2026-04-30T15:15:35.436698+03:00",
-  "date": "30.4.",
+  "fetchedAt": "2026-05-01T11:28:27.376980+03:00",
+  "date": "1.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
-        "price": "12,90€",
-        "tags": [
-          "V"
-        ]
-      },
-      {
-        "name": "Keväinen kanapasta sinihomejuustolla",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Parsakaali-sinihomejuustopasta",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Pannukakkua ja hilloa",
+        "name": "Ravintolamme on tänään suljettu",
         "price": "",
-        "tags": []
-      },
-      {
-        "name": "Paistettua rapeaa puna-ahventa, krossattua perunaa, kauden kasviksia ja tilli-crème fraîchea",
-        "price": "16,90€",
-        "tags": []
-      },
-      {
-        "name": "Murea naudan briskettiä, punaviini-balsamicokastiketta, yrttisiä paahtoperunoita ja grillattua varhaiskaalia",
-        "price": "16,90€",
         "tags": []
       }
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Kasvislasagne",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Parmesaan kuorrutettua broileria ja basmatiriisiä",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kahvi ja tee",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Purjo-perunasosekeitto",
+        "name": "Lounas suljettu",
         "price": "",
         "tags": []
       },
       {
-        "name": "Uunikirjolohta",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Bataattipihvit v,",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Sienikastiketta",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Paahdettua perunaa v,",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Päivän jälkiruoka",
+        "name": "Pidätämme oikeuden lounaslistan muutoksiin",
         "price": "",
         "tags": []
       }
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammascurry",
-        "price": "14,50€",
-        "tags": []
-      },
-      {
-        "name": "Teriyaki-kasvikset g ve",
+        "name": "Vappubrunssi",
         "price": "",
         "tags": []
       }
@@ -223,18 +161,8 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
-        "price": "11,90€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
-        "price": "14,60€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
-        "price": "14,00€",
+        "name": "Päivän lounaslista puuttuu palvelusta",
+        "price": "",
         "tags": []
       }
     ]
