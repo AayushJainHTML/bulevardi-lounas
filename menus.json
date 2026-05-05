@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-05-04T15:21:01.374622+03:00",
-  "date": "4.5.",
+  "fetchedAt": "2026-05-05T11:31:13.900945+03:00",
+  "date": "5.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkinen mustajuurikeitto",
+        "name": "Klassinen tomaattikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Valkosipulikanaa, patatas bravas, espanjalainen paprikasalaatti sekä aiolia",
+        "name": "Kreikkalaisittain maustetut jauhelihapihvit, sitruunainen pilahviriisi ja marinoitu tomaatti-fetasalaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Valkosipulitofua, patatas bravas, espanjalainen paprikasalaatti sekä aiolia",
+        "name": "Kreikkalaisittain maustetut vegepihvit, sitruunainen pilahviriisi ja marinoitu tomaatti-fetasalaatti",
         "price": "14,90€",
         "tags": []
       },
@@ -33,12 +33,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Linssi-munakoiso korma, basmatiriisiä ja jugurttiraita",
+        "name": "Paahdettua parsakaalia ja tofua, rapeaa lehtikaalia, punajuuricremeä ja paahdettuja auringonkukansiemeniä",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Lihapullia timjamikastikkeessa ja bataatti-perunamuhennosta",
+        "name": "Currykanaa ja basmatiriisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -50,27 +50,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Herkkusienikeitto",
+        "name": "Kermainen tomaattikeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Smetanassa haudutettua puna-ahventa",
+        "name": "Paneroitua broileria",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kylmä yrttikastike",
+        "name": "Chipotlemajoneesi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasvispyöryköittä ja tofukasvispaistosta v,",
+        "name": "Täytetty pasta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Perunamuusia",
+        "name": "Riisi v,",
         "price": "",
         "tags": []
       },
@@ -82,19 +82,109 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammascurry",
+        "name": "Buttered chicken",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Moussaka bechamelkastikkeella kasvis",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Grillattua kanan paistileikettä, piri piri -kastiketta ja lämmintä kvinoa-paistosta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Uunilohta, paahdettuja perunoita, beurre blanc -kastiketta ja broccolinia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Friteerattua munakoisoa, mozzarellaa ja tomaattikastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Lönkan juustoburger",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Paahdettuja perunoita",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Lämmin kvinoa-paistos",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Piri piri-kastike",
         "price": "",
         "tags": []
       }
@@ -133,12 +223,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja paprikamajoneesil",
+        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Jauhelihakastiketta ja perunamuusiagl",
+        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
         "price": "14,00€",
         "tags": []
       },
