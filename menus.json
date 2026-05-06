@@ -1,44 +1,22 @@
 {
-  "fetchedAt": "2026-05-05T15:02:47.903342+03:00",
-  "date": "5.5.",
+  "fetchedAt": "2026-05-06T11:43:32.741159+03:00",
+  "date": "6.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Klassinen tomaattikeitto",
-        "price": "12,90€",
-        "tags": [
-          "V"
-        ]
-      },
-      {
-        "name": "Kreikkalaisittain maustetut jauhelihapihvit, sitruunainen pilahviriisi ja marinoitu tomaatti-fetasalaatti",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Kreikkalaisittain maustetut vegepihvit, sitruunainen pilahviriisi ja marinoitu tomaatti-fetasalaatti",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Grillattua maissikananrintaa, bearnaise-dippiä, rapeita perunoita ja broccolinia",
-        "price": "16,90€",
-        "tags": []
-      },
-      {
-        "name": "Paistettua lohta, hölskypottuja, kevätkasviksia ja ruskistettua sitruunavoita",
-        "price": "16,90€",
+        "name": "Ravintolamme on tänään suljettu",
+        "price": "",
         "tags": []
       }
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Paahdettua parsakaalia ja tofua, rapeaa lehtikaalia, punajuuricremeä ja paahdettuja auringonkukansiemeniä",
-        "price": "14,00€",
+        "name": "Kaali-linssivuoka",
+        "price": "13,70€",
         "tags": []
       },
       {
-        "name": "Currykanaa ja basmatiriisiä",
+        "name": "Kanakebabia, valkosipulijogurttia ja riisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -50,27 +28,27 @@
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Kermainen tomaattikeitto",
+        "name": "Kukkakaalikeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Paneroitua broileria",
+        "name": "Kermassa haudutettua kirjolohta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Chipotlemajoneesi",
+        "name": "Kasviskoftaa v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Täytetty pasta",
+        "name": "Jugurttikastiketta",
         "price": "",
         "tags": []
       },
       {
-        "name": "Riisi v,",
+        "name": "Tilliperunaa v,",
         "price": "",
         "tags": []
       },
@@ -82,13 +60,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Buttered chicken",
+        "name": "Kanatagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
-        "price": "",
+        "name": "Paahdettuja kasviksia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -223,12 +201,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
