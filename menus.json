@@ -1,54 +1,81 @@
 {
-  "fetchedAt": "2026-05-06T15:27:18.030206+03:00",
-  "date": "6.5.",
+  "fetchedAt": "2026-05-07T10:55:21.342214+03:00",
+  "date": "7.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Ravintolamme on tänään suljettu",
-        "price": "",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Talon kalapuikot, perunamuusi, tartarkastiketta ja marinoitua sipulia",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Talon tofupuikot, perunamuusi, tartarkastiketta ja marinoitu sipuli",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Grillattua maissikananrintaa, bearnaise-dippiä, rapeita perunoita ja broccolinia",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Paistettua lohta, hölskypottuja, kevätkasviksia ja ruskistettua sitruunavoita",
+        "price": "16,90€",
         "tags": []
       }
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Kaali-linssivuoka",
-        "price": "13,70€",
-        "tags": []
-      },
-      {
-        "name": "Kanakebabia, valkosipulijogurttia ja riisiä",
+        "name": "Mifu-ratatuille",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kahvi ja tee",
+        "name": "Haudutettua turskaa, piparjuurikastike, tillivoiperunaa, kaalia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Hernekeittoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kahvi/tee ja pannukakkua ja hilloa",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Kukkakaalikeitto",
+        "name": "Bataattikeitto",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kermassa haudutettua kirjolohta",
+        "name": "Valkosipuli -yrtittäytteinen lammaspihvi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Kasviskoftaa v,",
+        "name": "Kukkakaaliwingsejä v,",
         "price": "",
         "tags": []
       },
       {
-        "name": "Jugurttikastiketta",
+        "name": "Chipotlemajoneesi",
         "price": "",
         "tags": []
       },
       {
-        "name": "Tilliperunaa v,",
+        "name": "Kermaperunaa",
         "price": "",
         "tags": []
       },
@@ -60,12 +87,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Naudanlihapata rusinoilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Paahdettuja kasviksia g ve",
+        "name": "Tahini-kukkakaalia g ve",
         "price": "14,50€",
         "tags": []
       }
@@ -196,33 +223,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
+        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Katkarapupastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
-        "price": "22,00€",
         "tags": []
       }
     ]
