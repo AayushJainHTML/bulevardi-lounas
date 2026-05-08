@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-05-07T15:57:36.499956+03:00",
-  "date": "7.5.",
+  "fetchedAt": "2026-05-08T11:06:31.694209+03:00",
+  "date": "8.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Juustokuminalla maustettu porkkanakeitto ja fetajuustoa",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Talon kalapuikot, perunamuusi, tartarkastiketta ja marinoitua sipulia",
+        "name": "Karibialaisittain maustettua kananpaistia, riisiä ja papuja sekä ananas-avokadosalsaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Talon tofupuikot, perunamuusi, tartarkastiketta ja marinoitu sipuli",
+        "name": "Karibialaisittain maustettua \"no chickeniä\", riisiä ja papuja sekä ananas-avokadosalsaa",
         "price": "14,90€",
         "tags": []
       },
@@ -33,67 +31,32 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Mifu-ratatuille",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Haudutettua turskaa, piparjuurikastike, tillivoiperunaa, kaalia",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Hernekeittoa",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kahvi/tee ja pannukakkua ja hilloa",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-brod-punavuori": [
       {
-        "name": "Bataattikeitto",
+        "name": "Lounas suljettu",
         "price": "",
         "tags": []
       },
       {
-        "name": "Valkosipuli -yrtittäytteinen lammaspihvi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Kukkakaaliwingsejä v,",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Chipotlemajoneesi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Kermaperunaa",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Päivän jälkiruoka",
+        "name": "Pidätämme oikeuden lounaslistan muutoksiin",
         "price": "",
         "tags": []
       }
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata rusinoilla",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Grillattuja kasviksia g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -223,18 +186,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
+        "name": "Hinta:  Paneroitua kampelaa, kapriskastiketta ja kermaperunatl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
+        "name": "Hinta:  Kermainen pyttipannu ja kananmunagl",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Katkarapupastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
+        "price": "22,00€",
         "tags": []
       }
     ]
