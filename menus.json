@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-05-11T16:48:30.798254+03:00",
-  "date": "11.5.",
+  "fetchedAt": "2026-05-12T10:53:23.363117+03:00",
+  "date": "12.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Linssimasalakeitto",
+        "name": "Kermainen voipapu-persiljakeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Harissakanaa, lämmin tabbouleh-salaatti ja paahdettu munakoiso-jogurttikastike",
+        "name": "Carnitas-burrito – hitaasti kypsennettyä mureaa possua ja meksikolaista riisiä, tarjoillaan talon salsan ja guacamolen sekä maissimuhennoksen kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Harissatofua, lämmin tabbouleh-salaatti ja paahdettu munakoiso-jogurttikastike",
+        "name": "Black bean burrito – meksikolaista mustapapu-herne-riisiä, talon salsaa, guacamolea ja muhennettua maissia l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,12 +35,14 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Härkisbolognesea, spaghettia ja parmesania",
+        "name": "Tomaattinen ratatuille vegaaninen",
         "price": "14,00€",
-        "tags": []
+        "tags": [
+          "VE"
+        ]
       },
       {
-        "name": "Lihapullia jaloviina-kermakastikkeessa ja bataatti-perunamuhennosta",
+        "name": "Yrtti-valkosipulipaahdettua broileria, paprikakastiketta ja maustepaahdettuja perunoita",
         "price": "14,00€",
         "tags": []
       },
@@ -59,19 +61,109 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kermaista kanaa",
+        "name": "Naudanlihaokraa tomaatilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Moussaka bechamelkastikkeella kasvis",
+        "name": "Paahdettuja kasviksia g ve",
         "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Porsaan schnitzel, perunamuusia, kapriskastiketta ja tomaattisalaattia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Lohiwallenberg, keitetyt uudet perunat, tartarkastike ja grillattu varhaiskaali",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kasvispyöryköitä, perunamuusia, tsatsikia ja grillattua varhaiskaalia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Aioli chorizo juustoburger",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Keitettyjä uusia perunoita ja grillattua kaalia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Perunamuusia ja tomaattisalaattia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Kapriskastike",
         "price": "",
         "tags": []
       }
@@ -110,12 +202,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja remouladekastikettal",
+        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Pippurihärkä ja perunamuusigl",
+        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
