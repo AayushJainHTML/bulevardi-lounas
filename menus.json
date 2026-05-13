@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-05-12T16:04:07.839988+03:00",
-  "date": "12.5.",
+  "fetchedAt": "2026-05-13T12:24:39.430067+03:00",
+  "date": "13.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Kermainen voipapu-persiljakeitto",
+        "name": "Silkkinen kukkakaalikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Carnitas-burrito – hitaasti kypsennettyä mureaa possua ja meksikolaista riisiä, tarjoillaan talon salsan ja guacamolen sekä maissimuhennoksen kanssa",
+        "name": "Pasta carbonara – klassinen täyteläinen pasta savukyljestä ja parmesanjuustosta",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Black bean burrito – meksikolaista mustapapu-herne-riisiä, talon salsaa, guacamolea ja muhennettua maissia l g , veg",
+        "name": "Savutofu-broccolicarbonara – klassisen savukylkipastan vegeserkku parmesaanijuustolla l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,20 +35,13 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Tomaattinen ratatuille vegaaninen",
-        "price": "14,00€",
-        "tags": [
-          "VE"
-        ]
-      },
-      {
-        "name": "Yrtti-valkosipulipaahdettua broileria, paprikakastiketta ja maustepaahdettuja perunoita",
+        "name": "Herkkusieni-kasvispasta",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kahvi ja tee",
-        "price": "",
+        "name": "Salsa kuorrutettua uunimakkaraa ja bataatti-perunasosetta",
+        "price": "14,00€",
         "tags": []
       }
     ],
@@ -61,13 +54,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihaokraa tomaatilla",
+        "name": "Lammastagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Paahdettuja kasviksia g ve",
-        "price": "14,50€",
+        "name": "Sieniä bechamelkastikkeella",
+        "price": "",
         "tags": []
       }
     ],
@@ -202,12 +195,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
