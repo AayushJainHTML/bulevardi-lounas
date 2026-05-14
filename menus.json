@@ -1,47 +1,18 @@
 {
-  "fetchedAt": "2026-05-13T16:11:13.955283+03:00",
-  "date": "13.5.",
+  "fetchedAt": "2026-05-14T12:13:33.383557+03:00",
+  "date": "14.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkinen kukkakaalikeitto",
-        "price": "12,90€",
-        "tags": [
-          "V"
-        ]
-      },
-      {
-        "name": "Pasta carbonara – klassinen täyteläinen pasta savukyljestä ja parmesanjuustosta",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Savutofu-broccolicarbonara – klassisen savukylkipastan vegeserkku parmesaanijuustolla l g , veg",
-        "price": "14,90€",
-        "tags": [
-          "V"
-        ]
-      },
-      {
-        "name": "Ahven wallenberg, piparjuuri bechamel, herneitä, kukkaaalia ja sitruunaista perunaaa",
-        "price": "16,90€",
-        "tags": []
-      },
-      {
-        "name": "Oskarinleike – leivitetty porsaanleike, parsaa, choronkastiketta ja katkarapuja",
-        "price": "16,90€",
+        "name": "Ravintolamme on tänään suljettu",
+        "price": "",
         "tags": []
       }
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Herkkusieni-kasvispasta",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Salsa kuorrutettua uunimakkaraa ja bataatti-perunasosetta",
-        "price": "14,00€",
+        "name": "Päivän lounaslista puuttuu palvelusta",
+        "price": "",
         "tags": []
       }
     ],
@@ -54,12 +25,7 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammastagine",
-        "price": "14,50€",
-        "tags": []
-      },
-      {
-        "name": "Sieniä bechamelkastikkeella",
+        "name": "Ei lounasbuffetia - à la carte saatavilla",
         "price": "",
         "tags": []
       }
@@ -190,33 +156,8 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
-        "price": "11,90€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
-        "price": "14,60€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kermainen pekonipastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
-        "price": "22,00€",
+        "name": "Päivän lounaslista puuttuu palvelusta",
+        "price": "",
         "tags": []
       }
     ]
