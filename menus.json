@@ -1,11 +1,35 @@
 {
-  "fetchedAt": "2026-05-14T15:25:46.812665+03:00",
-  "date": "14.5.",
+  "fetchedAt": "2026-05-15T12:27:53.108471+03:00",
+  "date": "15.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Ravintolamme on tänään suljettu",
-        "price": "",
+        "name": "Purjo-perunakeitto",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Pitkään haudutettua kanaa sienikastikkeessa sekä polentaa",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Herkkusieniä ja mascarponea sekä polentaa",
+        "price": "14,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Ahven wallenberg, piparjuuri bechamel, herneitä, kukkaaalia ja sitruunaista perunaaa",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Oskarinleike – leivitetty porsaanleike, parsaa, choronkastiketta ja katkarapuja",
+        "price": "16,90€",
         "tags": []
       }
     ],
@@ -25,7 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Ei lounasbuffetia - à la carte saatavilla",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Friday grill fiesta: grillatut kasvisvartaat g ve",
         "price": "",
         "tags": []
       }
@@ -156,8 +185,33 @@
     ],
     "salve": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
-        "price": "",
+        "name": "Hinta:  Lounaskeitto",
+        "price": "11,90€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastiketta ja perunamuusial",
+        "price": "14,60€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Omenaista porsaanposkea ja valkosipuliperunoitagl",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kermainen pekonipastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "price": "22,00€",
         "tags": []
       }
     ]
