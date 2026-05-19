@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-05-18T17:30:02.710339+03:00",
-  "date": "18.5.",
+  "fetchedAt": "2026-05-19T13:12:17.844580+03:00",
+  "date": "19.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkinen mustajuuri",
+        "name": "Juustoinen juureskeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Lihapullapasta – lihapullia ja marinara-pastaa sekä parmesaania",
+        "name": "Grillattu porsaan kyljys, honey ranch -kastiketta, valkosipulivoi-uuniperunaa ja marinoitu sipuli-tomaattisalaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kasvispyörykkäpasta – kasvispyöryköitä ja marinara-pastaa sekä parmesaania l g , veg",
+        "name": "Grillattu tofu, honey ranch -kastiketta, valkosipulivoi-uuniperunaa ja marinoitu sipuli-tomaattisalaatti",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,7 +33,17 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "name": "Uunifeta pastaa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Marry me-kanaa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kahvi ja tee",
         "price": "",
         "tags": []
       }
@@ -49,19 +57,109 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunakanaa valkoviinikastikkeessa",
+        "name": "Naudanliha tagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Teriyaki-kasvikset g ve",
+        "name": "Vihreitä papuja g ve",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Burgundinpataa ja perunamuusia, tuoreita yrttejä",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Rapea turska, höyrytettyä riisiä, salsa verdeä ja maissi pico de galloa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Falafelpyöryköitä, höyrytettyä riisiä, baba ganoushia, pikkelöityä sipulia ja yrttisalaattia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Pekoni-juustoburgeri",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Höyrytettyä riisiä ja maissisalsaa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Perunamuusia ja yrttejä",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Salsa verde",
         "price": "",
         "tags": []
       }
@@ -100,12 +198,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
+        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
