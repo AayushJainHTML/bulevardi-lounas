@@ -1,20 +1,20 @@
 {
-  "fetchedAt": "2026-05-19T16:55:07.031198+03:00",
-  "date": "19.5.",
+  "fetchedAt": "2026-05-20T12:58:56.399147+03:00",
+  "date": "20.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Juustoinen juureskeitto",
+        "name": "Maissi-chili-keitto",
         "price": "12,90€",
         "tags": []
       },
       {
-        "name": "Grillattu porsaan kyljys, honey ranch -kastiketta, valkosipulivoi-uuniperunaa ja marinoitu sipuli-tomaattisalaatti",
+        "name": "Peri-peri-kanaa, raikasta sitruuna-aiolia ja paistettua portugalilaista riisiä ja marinoitua porkkanaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Grillattu tofu, honey ranch -kastiketta, valkosipulivoi-uuniperunaa ja marinoitu sipuli-tomaattisalaatti",
+        "name": "Periperi tempeh, raikasta sitruuna-aiolia ja paistettu portugalilainen riisi ja marinoitua porkkana",
         "price": "14,90€",
         "tags": [
           "V"
@@ -33,12 +33,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Uunifeta pastaa",
+        "name": "Uuniperunaa kasvistäytteellä",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Marry me-kanaa",
+        "name": "Karamellisoitua possua ja lohkoperunoita",
         "price": "14,00€",
         "tags": []
       },
@@ -57,12 +57,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanliha tagine",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Vihreitä papuja g ve",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
         "price": "",
         "tags": []
       }
@@ -198,12 +198,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
+        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
