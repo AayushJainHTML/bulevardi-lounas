@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-05-20T16:39:28.503120+03:00",
-  "date": "20.5.",
+  "fetchedAt": "2026-05-21T13:08:26.598739+03:00",
+  "date": "21.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Maissi-chili-keitto",
+        "name": "Hernekeitto g v, palvikinkkua",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Peri-peri-kanaa, raikasta sitruuna-aiolia ja paistettua portugalilaista riisiä ja marinoitua porkkanaa",
+        "name": "Pulled chicken molekastikkeella ja bataatilla, tarjoillaan raikkaan kurkku-lime-salsan kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Periperi tempeh, raikasta sitruuna-aiolia ja paistettu portugalilainen riisi ja marinoitua porkkana",
+        "name": "No chicken mole-kastikkeella ja bataatilla, tarjoillaan raikkaan kurkku-lime-salsan kanssa",
         "price": "14,90€",
         "tags": [
           "V"
@@ -33,17 +35,22 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Uuniperunaa kasvistäytteellä",
+        "name": "Kukkakaali-parsakaali ricotta paistos",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Karamellisoitua possua ja lohkoperunoita",
+        "name": "Tonnikala lasagnette",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kahvi ja tee",
+        "name": "Hernekeittoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kahvi, tee, pannukakkua ja mansikkahilloa",
         "price": "",
         "tags": []
       }
@@ -57,13 +64,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Lammaspata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -193,33 +200,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
+        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vuohenjuustopastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kasvispyttipannugve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
-        "price": "22,00€",
         "tags": []
       }
     ]
