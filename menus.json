@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-05-25T17:08:17.934192+03:00",
-  "date": "25.5.",
+  "fetchedAt": "2026-05-26T13:32:30.635315+03:00",
+  "date": "26.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Inkiväärinen kurpitsakeitto",
+        "name": "Kasvisborssikeitto ja smetanaa",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Nauta-kookoscurry ja höyrytetty riisi",
+        "name": "Basilikakanaa ja melanzane eli munakoiso-mozzarellavuokaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tofu-kookoscurry ja höyrytetty riisi",
+        "name": "Punajuuri-vuohenjuustopihvejä ja melanzane eli munakoiso-mozzarellavuokaa",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Paistettua lohta, skånenperunaa, pikkelöityä fenkolia ja broccolinia sekä tilliöljyä",
@@ -35,13 +33,13 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Porkkanapihvejä, jogurttikastiketta ja täysjyväriisiä",
+        "name": "Pasta carbonara ja parmesania",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Lihapullia, kermaperunoita ja sinappikermakastiketta",
-        "price": "14,90€",
+        "name": "Kasvislasagne",
+        "price": "14,00€",
         "tags": []
       },
       {
@@ -59,13 +57,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunakanaa valkoviinikastikkeessa",
+        "name": "Lammasta ja voipapuja",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Teriyaki-kasvikset g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -110,12 +108,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
+        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
+        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
