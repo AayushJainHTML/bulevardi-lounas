@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-27T13:35:29.015626+03:00",
+  "fetchedAt": "2026-05-27T17:27:01.773540+03:00",
   "date": "27.5.",
   "menus": {
     "southpark": [
@@ -69,7 +69,97 @@
     ],
     "ravintola-lonkka": [
       {
-        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "name": "Hiillostettua kanashawarmaa, kurkumabulguria, kurkku-kikhernesalaattia, jogurtti-minttukastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Rapeaa silakkaa, paahdettua perunaa, herne-voikastiketta ja yrttisalaattia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kotitekoisia kasvispihvejä, rapeaa perunaa ja avokado-yrttikastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Amerikkalainen juustoburgeri ja bbq-majoneesia",
+        "price": "16,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Kurkumabulguria ja kurkku-kikhernesalaattia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Rapeaksi paahdettua varhaisperunaa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Minttujogurttikastike",
         "price": "",
         "tags": []
       }
