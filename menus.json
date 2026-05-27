@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-05-26T16:54:12.876147+03:00",
-  "date": "26.5.",
+  "fetchedAt": "2026-05-27T13:35:29.015626+03:00",
+  "date": "27.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Kasvisborssikeitto ja smetanaa",
+        "name": "Pinaattikeitto ja keitettyjä kananmunia",
         "price": "12,90€",
+        "tags": []
+      },
+      {
+        "name": "Hot honey -kanaa ja viilentävä jogurttikastike, tarjoillaan ranchperunoiden ja marinoitujen kasvisten kanssa",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Hot honey quornia ja viilentävä jogurttikastike, tarjoillaan ranchperunoiden ja marinoitujen kasvisten kanssa",
+        "price": "14,90€",
         "tags": [
           "V"
         ]
-      },
-      {
-        "name": "Basilikakanaa ja melanzane eli munakoiso-mozzarellavuokaa",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Punajuuri-vuohenjuustopihvejä ja melanzane eli munakoiso-mozzarellavuokaa",
-        "price": "14,90€",
-        "tags": []
       },
       {
         "name": "Paistettua lohta, skånenperunaa, pikkelöityä fenkolia ja broccolinia sekä tilliöljyä",
@@ -33,12 +33,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Pasta carbonara ja parmesania",
+        "name": "Pinaatti-ricotta canneloneja",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kasvislasagne",
+        "name": "Kievin kanaa, currymajoneesia ja riisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -57,13 +57,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Kanatagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -108,12 +108,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
