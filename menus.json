@@ -1,24 +1,31 @@
 {
-  "fetchedAt": "2026-05-27T17:27:01.773540+03:00",
-  "date": "27.5.",
+  "fetchedAt": "2026-05-28T13:37:12.384516+03:00",
+  "date": "28.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Pinaattikeitto ja keitettyjä kananmunia",
+        "name": "Hernekeitto ja palvikinkkua",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Hot honey -kanaa ja viilentävä jogurttikastike, tarjoillaan ranchperunoiden ja marinoitujen kasvisten kanssa",
+        "name": "Katkarapu skagen ja uuniperunaa, tarjoillaan marinoidun kaalisalaatin ja hölsky kurkkujen kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hot honey quornia ja viilentävä jogurttikastike, tarjoillaan ranchperunoiden ja marinoitujen kasvisten kanssa",
+        "name": "Tofuskagen ja uuniperunaa, tarjoillaan marinoidun kaalisalaatin ja hölskykurkkujen kanssa",
         "price": "14,90€",
         "tags": [
           "V"
         ]
+      },
+      {
+        "name": "Pannukakkua ja hilloa",
+        "price": "",
+        "tags": []
       },
       {
         "name": "Paistettua lohta, skånenperunaa, pikkelöityä fenkolia ja broccolinia sekä tilliöljyä",
@@ -33,17 +40,22 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Pinaatti-ricotta canneloneja",
+        "name": "Wokattuja kasviksia, soijasuikaleita ja sweet chili kastiketta",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kievin kanaa, currymajoneesia ja riisiä",
+        "name": "Aasialaista teryakipossua, wokattuja kasviksia ja jasmiiniriisiä",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kahvi ja tee",
+        "name": "Hernekeittoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kahvi/tee ja pannukakkua sekä mansikkahilloa",
         "price": "",
         "tags": []
       }
@@ -57,12 +69,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Naudanlihapata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Kermaisia kasviksia",
         "price": "",
         "tags": []
       }
@@ -193,33 +205,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
+        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Lihapullapastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
-        "price": "22,00€",
         "tags": []
       }
     ]
