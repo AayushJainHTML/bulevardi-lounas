@@ -1,31 +1,24 @@
 {
-  "fetchedAt": "2026-05-28T17:37:46.591814+03:00",
-  "date": "28.5.",
+  "fetchedAt": "2026-05-29T13:28:22.741459+03:00",
+  "date": "29.5.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto ja palvikinkkua",
+        "name": "Kasvisseljanka",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Katkarapu skagen ja uuniperunaa, tarjoillaan marinoidun kaalisalaatin ja hölsky kurkkujen kanssa",
+        "name": "Kermaista valkosipulikanaa ja pinaatti-orzoa sekä paahdettua tomaattia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tofuskagen ja uuniperunaa, tarjoillaan marinoidun kaalisalaatin ja hölskykurkkujen kanssa",
+        "name": "Rapeaksi paistettua valkosipulitofua ja kermaista kastiketta sekä pinaattiorzoa ja paahdettuja tomaatteja",
         "price": "14,90€",
         "tags": [
           "V"
         ]
-      },
-      {
-        "name": "Pannukakkua ja hilloa",
-        "price": "",
-        "tags": []
       },
       {
         "name": "Paistettua lohta, skånenperunaa, pikkelöityä fenkolia ja broccolinia sekä tilliöljyä",
@@ -40,22 +33,7 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Wokattuja kasviksia, soijasuikaleita ja sweet chili kastiketta",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Aasialaista teryakipossua, wokattuja kasviksia ja jasmiiniriisiä",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hernekeittoa",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kahvi/tee ja pannukakkua sekä mansikkahilloa",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
@@ -69,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -205,18 +183,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastike ja perunamuusil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
+        "name": "Hinta:  Karjalanpaistia ja perunamuusiagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Lihapullapastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "price": "22,00€",
         "tags": []
       }
     ]
