@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-06-01T19:38:41.284800+03:00",
-  "date": "1.6.",
+  "fetchedAt": "2026-06-02T14:03:46.390632+03:00",
+  "date": "2.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkinen bataattikeitto",
+        "name": "Kermainen parsakaali-kesäkurpitsakeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Kanaa milanolaisittain – rapeaksi paistettua kanaa, sitruunainen rucola-parmesaanisalaatti ja pestoperunoita sekä sitruuna-aioli",
+        "name": "Hunaja-cashewkanaa ja parsakaalia sekä paistettuja nuudeleita",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kasvispihvi milanolaisittain – rapeaa kanatonta leikettä, sitruunainen rucola-parmesaanisalaatti ja pestoperunoita sekä sitruuna-aioli",
+        "name": "Hunaja-cashewtofua ja parsakaalia sekä paistettuja nuudeleita m g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,12 +35,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Kasvispihvejä ja perunaa",
+        "name": "Pinaattinen vuohenjuusto-bataattipaistos",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Kreikkalaista lihamureketta ja perunasosetta",
+        "name": "Butter chicken ja basmatiriisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -59,19 +59,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kermaista kanaa",
+        "name": "Naudanlihapata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Vihreät pavut tomaatti-basilikakastikkeessa",
+        "name": "Tahini-kukkakaalia g ve",
         "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Rigatonipastaa lihapullilla, jotka on kypsennetty kotitekoisessa tomaattikastikkeessa, parmesaanilla ja korppujauhoilla",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Baba pottufalle yrttikuskuksella ja punajuurighanous",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Amerikkalainen juustoburgeri ja bbq-majoneesia, pekonia ja rapea sipulia",
+        "price": "18,00€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "42,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "45,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Yrtty-couscous",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punaviinikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punajuurighanoush",
         "price": "",
         "tags": []
       }
@@ -110,12 +190,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja paprikamajoneesil",
+        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Jauhelihakastiketta ja perunamuusiagl",
+        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
         "price": "14,00€",
         "tags": []
       },
