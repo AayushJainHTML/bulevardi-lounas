@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-06-02T17:52:16.213372+03:00",
-  "date": "2.6.",
+  "fetchedAt": "2026-06-03T14:26:23.607711+03:00",
+  "date": "3.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Kermainen parsakaali-kesäkurpitsakeitto",
+        "name": "Kesäkeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Hunaja-cashewkanaa ja parsakaalia sekä paistettuja nuudeleita",
+        "name": "Mureaa possunposkea, paahtokasviksia ja hunaja-sinappikastiketta",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hunaja-cashewtofua ja parsakaalia sekä paistettuja nuudeleita m g , veg",
+        "name": "Paistettu hernepihvi, paahtokasviksia ja hunaja-sinappikastiketta",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,12 +33,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Pinaattinen vuohenjuusto-bataattipaistos",
+        "name": "Sitruunainen kesäkurpitsa gnocchipasta",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Butter chicken ja basmatiriisiä",
+        "name": "Katkarapupasta",
         "price": "14,00€",
         "tags": []
       },
@@ -59,12 +57,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
+        "name": "Tagine ve",
         "price": "14,50€",
         "tags": []
       }
@@ -190,12 +188,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
