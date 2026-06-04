@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-06-03T18:27:33.444908+03:00",
-  "date": "3.6.",
+  "fetchedAt": "2026-06-04T13:24:15.631335+03:00",
+  "date": "4.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Kesäkeitto",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
         "price": "12,90€",
-        "tags": []
-      },
-      {
-        "name": "Mureaa possunposkea, paahtokasviksia ja hunaja-sinappikastiketta",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Paistettu hernepihvi, paahtokasviksia ja hunaja-sinappikastiketta",
-        "price": "14,90€",
         "tags": [
           "V"
         ]
+      },
+      {
+        "name": "Kana-aurajuustolasagne ja balsamico-marinoitu tomaattisalaatti",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Punajuuri-aurajuustolasagne ja balsamico-marinoitu tomaattisalaatti",
+        "price": "14,90€",
+        "tags": []
       },
       {
         "name": "Paistettua kampelaa, hollandaisekastiketta sekä grillattuja kauden kasviksia",
@@ -33,12 +33,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Sitruunainen kesäkurpitsa gnocchipasta",
+        "name": "Hernekeittoa",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Katkarapupasta",
+        "name": "Tomaattinen uunimakkara ja perunasose",
         "price": "14,00€",
         "tags": []
       },
@@ -57,13 +57,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Lammasta jogurttikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -183,33 +183,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
+        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Katkarapupastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
-        "price": "22,00€",
         "tags": []
       }
     ]
