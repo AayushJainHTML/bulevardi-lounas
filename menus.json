@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-06-04T16:57:41.829518+03:00",
-  "date": "4.6.",
+  "fetchedAt": "2026-06-05T13:30:00.465823+03:00",
+  "date": "5.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Paahdettu selleri-omenakeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Kana-aurajuustolasagne ja balsamico-marinoitu tomaattisalaatti",
+        "name": "Mureaa kananpaistia tomaattisessa valkoviinikastikkeessa, paistettuja sieniä ja sipulia sekä riisiä",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Punajuuri-aurajuustolasagne ja balsamico-marinoitu tomaattisalaatti",
+        "name": "Paistettua quornia tomaattisessa valkoviinikastikkeessa, paistettuja sieniä ja sipulia sekä riisiä",
         "price": "14,90€",
         "tags": []
       },
@@ -33,17 +31,7 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Hernekeittoa",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Tomaattinen uunimakkara ja perunasose",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kahvi ja tee",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
@@ -57,12 +45,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta jogurttikastikkeessa",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -183,18 +171,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
+        "name": "Hinta:  Paneroitua kampelaa, kapriskastiketta ja kermaperunatl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
+        "name": "Hinta:  Kermainen pyttipannu ja kananmunagl",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Katkarapupastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
+        "price": "22,00€",
         "tags": []
       }
     ]
