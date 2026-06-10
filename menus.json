@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-06-09T16:44:21.069704+03:00",
-  "date": "9.6.",
+  "fetchedAt": "2026-06-10T13:38:47.804541+03:00",
+  "date": "10.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Crème ninon - ranskalainen tuorehernekeitto",
+        "name": "Miso-wakamekeitto tofulla",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Mureaa nautaa punaviinissä, muhennettua valkosipuliperunaa ja rakuunakasviksia",
+        "name": "Adobo pork belly - possua filippiiniläisittäin, höyrytettyä riisiä sekä raikasta kurkku-inkiväärisalaattia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hernepihvejä ja punaviinikastiketta sekä muhennettua valkosipuliperunaa ja rakuunakasviksia",
+        "name": "Adobo-tofua filippiiniläisittäin, höyrytettyä riisiä sekä raikasta kurkku-inkiväärisalaattia",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,12 +35,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Munakoisolasagne",
+        "name": "Pinaattilettuja",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Parmesanbroileria ja riisiä",
+        "name": "Talon kebabia mausteisessa tomaatti-basilikakastikkeessa ja basmatiriisiä",
         "price": "14,00€",
         "tags": []
       },
@@ -59,13 +59,18 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Kanatagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Okraa tomaattikastikkeessa g ve",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihreitä papuja g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -195,12 +200,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
