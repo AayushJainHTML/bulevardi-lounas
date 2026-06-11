@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-06-10T17:22:35.809854+03:00",
-  "date": "10.6.",
+  "fetchedAt": "2026-06-11T14:07:17.959369+03:00",
+  "date": "11.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Miso-wakamekeitto tofulla",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Adobo pork belly - possua filippiiniläisittäin, höyrytettyä riisiä sekä raikasta kurkku-inkiväärisalaattia",
+        "name": "Marry me salsiccia -pasta – grillattuja italialaisia raakamakkaroita marry me -kastikkeessa, tarjoillaan pastan kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Adobo-tofua filippiiniläisittäin, höyrytettyä riisiä sekä raikasta kurkku-inkiväärisalaattia",
+        "name": "Marry me -vegechorizopasta – grillattua vegechorizoa marry me -kastikkeessa, tarjoillaan pastan kanssa l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -35,12 +35,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Pinaattilettuja",
+        "name": "Hernekeittoa",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Talon kebabia mausteisessa tomaatti-basilikakastikkeessa ja basmatiriisiä",
+        "name": "Päivän kalaa ja persiljaperunaa",
         "price": "14,00€",
         "tags": []
       },
@@ -59,17 +59,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Lammasta ja voipapuja",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Okraa tomaattikastikkeessa g ve",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Vihreitä papuja g ve",
+        "name": "Kermaisia kasviksia",
         "price": "",
         "tags": []
       }
@@ -195,33 +190,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
+        "name": "Hinta:  Kirjolohta, hollandaisekastike ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Jauhemaksapihvejä, pekonikastiketta ja perunamuusial",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kermainen pekonipastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
-        "price": "22,00€",
         "tags": []
       }
     ]
