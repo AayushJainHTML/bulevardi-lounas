@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-06-11T17:37:19.323312+03:00",
-  "date": "11.6.",
+  "fetchedAt": "2026-06-12T13:47:15.095830+03:00",
+  "date": "12.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Kukkakaali-seesamikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Marry me salsiccia -pasta – grillattuja italialaisia raakamakkaroita marry me -kastikkeessa, tarjoillaan pastan kanssa",
+        "name": "Kanapita – sumacilla maustettua mureaa kanaa, chili-hummusta, grillattua munakoiso-paprikasalaattia, sipulia ja marinoitua varhaiskaalia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Marry me -vegechorizopasta – grillattua vegechorizoa marry me -kastikkeessa, tarjoillaan pastan kanssa l g , veg",
+        "name": "No chicken -pita – sumacilla maustettua no chickeniä, chili-hummusta, grillattua munakoiso-paprikasalaattia, sipulia ja marinoitua varhaiskaalia",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Lämminsavulohta, tomaatti-dijonpiirakkaa, vatkattua sitruunasmetanaa ja pikkelöityä fenkolia",
@@ -35,17 +33,7 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Hernekeittoa",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Päivän kalaa ja persiljaperunaa",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Kahvi ja tee",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
@@ -59,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -190,18 +178,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, hollandaisekastike ja perunamuusiagl",
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Jauhemaksapihvejä, pekonikastiketta ja perunamuusial",
+        "name": "Hinta:  Omenaista porsaanposkea ja valkosipuliperunoitagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kermainen pekonipastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "price": "22,00€",
         "tags": []
       }
     ]
