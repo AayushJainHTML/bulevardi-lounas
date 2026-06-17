@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-06-16T18:54:39.884524+03:00",
-  "date": "16.6.",
+  "fetchedAt": "2026-06-17T14:20:31.552448+03:00",
+  "date": "17.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Kookos-satay keitto",
+        "name": "Linssi-tomaatti keitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Rapu taco-marinoituja katkarapuja, guacamole, creme fraiche ja lime slaw varhaiskaalista",
+        "name": "Lihapullia, perunamuusia ja kermakastiketta sekä puolukkahilloa ja herneitä",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tempeh taco-rapeaa tempehiä, guacamole, creme fraiche ja lime slaw varhaiskaalista l g , veg",
+        "name": "Kasvispyöryköitä, perunamuusia ja kermakastiketta sekä puolukkahilloa ja herneitä",
         "price": "14,90€",
         "tags": [
           "V"
@@ -33,12 +35,12 @@
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Ranskalaista kanapataa ja riisiä",
+        "name": "Kiltakellarin mehevää tonnikalalasganea",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Uuniperunaa ja kasvistäytteellä",
+        "name": "Kiltakellarin kasvislasagnea",
         "price": "14,00€",
         "tags": []
       },
@@ -57,12 +59,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Buttered chicken",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Kasvispata g ve",
         "price": "",
         "tags": []
       }
@@ -188,12 +190,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
+        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
