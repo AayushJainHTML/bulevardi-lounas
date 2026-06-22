@@ -1,17 +1,39 @@
 {
-  "fetchedAt": "2026-06-19T17:12:34.477557+03:00",
-  "date": "19.6.",
+  "fetchedAt": "2026-06-22T15:30:45.103498+03:00",
+  "date": "22.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Ravintolamme on tänään suljettu",
-        "price": "",
+        "name": "Purjo-perunakeitto",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Fried chicken ja mac ’n’ cheese sekä chilidippi ja raikas kaalislaw",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Fried no-chicken ja mac ’n’ cheese sekä chilidippi ja raikas kaalislaw",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Lohi-perunakakkuja, sahramimajoneesia ja sitruunainen retiisi-kurkkusalaatti",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Maissikananrintaa, artisokkarisottoa, punaviinikastiketta sekä kesäkasviksia",
+        "price": "16,90€",
         "tags": []
       }
     ],
     "sodexo-kiltakellari": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Katso päivän lounaslista ravintolan sivuilta!",
         "price": "",
         "tags": []
       }
@@ -25,94 +47,19 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Ei lounasbuffetia - à la carte saatavilla",
+        "name": "Naudanlihapata rusinoilla",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Okraa tomaattikastikkeessa g ve",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Liekitetty lohibowl, edamame-papuja, valkosipuli-chilikurkkuja, kaaliriisiä ja soijamajoneesia",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Paistettu tofu bowl, edamame-papuja, valkosipuli-chilikurkkuja, kaaliriisiä ja soijamajoneesia",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Juustoburgeri chilihillolla",
-        "price": "18,00€",
-        "tags": []
-      },
-      {
-        "name": "Viikon lounaspihvit",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Naudan flank steak 200g",
-        "price": "25,00€",
-        "tags": []
-      },
-      {
-        "name": "Naudan sisäfilepihvi 180g",
-        "price": "43,00€",
-        "tags": []
-      },
-      {
-        "name": "Black angus ulkofile 250g",
-        "price": "46,00€",
-        "tags": []
-      },
-      {
-        "name": "Marmori entrecote 300g",
-        "price": "56,00€",
-        "tags": []
-      },
-      {
-        "name": "Valitse lisuke",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Ranskalaiset ja ketsuppi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Vihersalaatti",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Höyrytettyä riisiä ja chilikurkkuja",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Valitse kastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Viskikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Dijon- pippurikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Chimichurri",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Nduja-maustevoi",
+        "name": "Katso päivän lounaslista ravintolan sivuilta!",
         "price": "",
         "tags": []
       }
@@ -146,8 +93,33 @@
     ],
     "salve": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
-        "price": "",
+        "name": "Hinta:  Lounaskeitto",
+        "price": "11,90€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
+        "price": "14,60€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Lihapullapastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "price": "22,00€",
         "tags": []
       }
     ]
