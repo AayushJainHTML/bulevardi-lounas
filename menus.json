@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-06-22T18:51:41.337013+03:00",
-  "date": "22.6.",
+  "fetchedAt": "2026-06-23T13:08:47.947852+03:00",
+  "date": "23.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Purjo-perunakeitto",
+        "name": "Paahdettu paprikakeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Fried chicken ja mac ’n’ cheese sekä chilidippi ja raikas kaalislaw",
+        "name": "Thaibasilikanautaa ja höyrytettyä riisiä m g kala",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Fried no-chicken ja mac ’n’ cheese sekä chilidippi ja raikas kaalislaw",
+        "name": "Thaimaustettua basilikatofua ja höyrytettyä riisiä",
         "price": "14,90€",
         "tags": []
       },
@@ -47,13 +45,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata rusinoilla",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Okraa tomaattikastikkeessa g ve",
-        "price": "",
+        "name": "Kukkakaalia sitruunakastikkeella ja tuoreella korianterilla g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -98,12 +96,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
+        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
+        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
