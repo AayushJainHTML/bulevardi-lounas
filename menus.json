@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-06-23T16:42:52.144616+03:00",
-  "date": "23.6.",
+  "fetchedAt": "2026-06-24T12:55:43.418168+03:00",
+  "date": "24.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahdettu paprikakeitto",
+        "name": "‘Hot n sour’ sienikeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Thaibasilikanautaa ja höyrytettyä riisiä m g kala",
+        "name": "Silakkapihvit, perunamuusi, tilli-kermaviilikastike ja marinoitu sipuli",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Thaimaustettua basilikatofua ja höyrytettyä riisiä",
+        "name": "Ruiskuorrutettu savutofu, perunamuusi, tilli-kermaviilikastike ja marinoitu sipuli",
         "price": "14,90€",
         "tags": []
       },
@@ -45,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
-        "price": "14,50€",
+        "name": "Karitsamoussaka",
+        "price": "",
         "tags": []
       },
       {
-        "name": "Kukkakaalia sitruunakastikkeella ja tuoreella korianterilla g ve",
+        "name": "Moussaka bechamelkastikkeella kasvis",
         "price": "14,50€",
         "tags": []
       }
@@ -96,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
