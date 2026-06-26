@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-06-25T16:19:43.967733+03:00",
-  "date": "25.6.",
+  "fetchedAt": "2026-06-26T12:57:16.369637+03:00",
+  "date": "26.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto ja palvikinkkua",
+        "name": "Porkkana-kookoskeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Kanaa viinissä ja paistin perunaa sekä rakuunavinegretillä maustettuja kasviksia",
+        "name": "Chili-pekonipasta",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Viinissä haudutettua hernistä, paistinperunaa sekä rakuunavinegretillä maustettuja kasviksia",
+        "name": "Chili-munakoisopasta",
         "price": "14,90€",
         "tags": []
       },
@@ -47,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunakanaa valkoviinikastikkeessa",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Vihreä papupata ve",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -93,18 +93,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastike ja perunamuusil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
+        "name": "Hinta:  Karjalanpaistia ja perunamuusiagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Lihapullapastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "price": "22,00€",
         "tags": []
       }
     ]
