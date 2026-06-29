@@ -1,32 +1,34 @@
 {
-  "fetchedAt": "2026-06-26T16:11:27.218233+03:00",
-  "date": "26.6.",
+  "fetchedAt": "2026-06-29T14:30:01.140852+03:00",
+  "date": "29.6.",
   "menus": {
     "southpark": [
       {
-        "name": "Porkkana-kookoskeitto",
+        "name": "Klassinen tomaattikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Chili-pekonipasta",
+        "name": "Butter chicken ja höyrytetty riisi",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Chili-munakoisopasta",
+        "name": "Butter-tofu ja höyrytetty riisi",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Lohi-perunakakkuja, sahramimajoneesia ja sitruunainen retiisi-kurkkusalaatti",
+        "name": "Caesar-salaatti ja paistettua jättiravunpyrstöä, talon caesarkastike, parmesaanijuustoa ja talon yrttikrutonkeja",
         "price": "16,90€",
         "tags": []
       },
       {
-        "name": "Maissikananrintaa, artisokkarisottoa, punaviinikastiketta sekä kesäkasviksia",
+        "name": "Croque monsieur: lämmin klassikkoleipä; paistettua savukylkeä ja bechamel-kastiketta rapean hapanjuurileivän välissä, tarjoillaan talon ranskalaisten ja aiolin kanssa.",
         "price": "16,90€",
         "tags": []
       }
@@ -47,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
-        "price": "14,50€",
+        "name": "Tomaatti-munakoiso-basilikapata naudanlihalla",
+        "price": "",
         "tags": []
       },
       {
-        "name": "Grillattuja kasviksia g ve",
+        "name": "Tomaatti-munakoiso-basilikapata",
         "price": "",
         "tags": []
       }
@@ -98,27 +100,27 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastike ja perunamuusil",
+        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja paprikamajoneesil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Karjalanpaistia ja perunamuusiagl",
+        "name": "Hinta:  Jauhelihakastiketta ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihapullapastal",
+        "name": "Hinta:  Katkarapupastal",
         "price": "13,50€",
         "tags": []
       },
       {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
         "price": "22,00€",
         "tags": []
       }
