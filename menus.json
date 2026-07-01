@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-06-30T16:09:18.278241+03:00",
-  "date": "30.6.",
+  "fetchedAt": "2026-07-01T13:28:15.333587+03:00",
+  "date": "1.7.",
   "menus": {
     "southpark": [
       {
-        "name": "Bataatti-kikhernekeitto",
+        "name": "Kermainen kukkakaalikeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Chorizomakkaraa, tabbouleh-salaattia ja yrttijogurttikastiketta",
+        "name": "Paistettua possunkassleria, bearnaisekastiketta sekä kesäisiä perunoita ja kasviksia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Vegaanichorizoa, tabbouleh-salaattia ja yrttijogurttikastiketta",
+        "name": "Paistettua tofua, bearnaisedippiä, kesäisiä perunoita ja kasviksia",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa rakuunakastikkeessa",
-        "price": "",
+        "name": "Punainen kanacurry",
+        "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Teriyaki-kasvikset g ve",
+        "name": "Chilipinaatti",
         "price": "",
         "tags": []
       }
@@ -100,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
