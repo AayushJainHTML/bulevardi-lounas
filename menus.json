@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-07-06T17:25:33.990972+03:00",
-  "date": "6.7.",
+  "fetchedAt": "2026-07-07T13:05:01.458240+03:00",
+  "date": "7.7.",
   "menus": {
     "southpark": [
       {
-        "name": "Nepalilainen papu-linssikeitto",
+        "name": "Chilillä ja limellä maustettu maissikeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Inkiväärikanaa ja paistettua valkosipuliriisiä",
+        "name": "Kana kofta, sitruunahummus, kaali-sipuli salaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Palak paneer tofulla ja paistettua valkosipuliriisiä",
+        "name": "Paneroitua kasvis pihvi, kaali-sipuli salaatti, sitruunahummus",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,18 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Punainen kanacurry",
+        "name": "Lammasta ja voipapuja",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Ratatouille naudanlihalla",
-        "price": "14,50€",
-        "tags": []
-      },
-      {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Kermaisia kasviksia",
+        "price": "",
         "tags": []
       }
     ],
@@ -105,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja remouladekastikettal",
+        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Pippurihärkä ja perunamuusigl",
+        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
