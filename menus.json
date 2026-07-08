@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-07-07T16:20:54.242370+03:00",
-  "date": "7.7.",
+  "fetchedAt": "2026-07-08T12:04:28.255715+03:00",
+  "date": "8.7.",
   "menus": {
     "southpark": [
       {
-        "name": "Chilillä ja limellä maustettu maissikeitto",
+        "name": "Silkkinen borssikeitto ja smetanaa",
         "price": "12,90€",
-        "tags": []
-      },
-      {
-        "name": "Kana kofta, sitruunahummus, kaali-sipuli salaatti",
-        "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Paneroitua kasvis pihvi, kaali-sipuli salaatti, sitruunahummus",
-        "price": "14,90€",
         "tags": [
           "V"
         ]
+      },
+      {
+        "name": "Savutofu-limonellopasta",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Katkarapu-lohi limonello-pasta",
+        "price": "14,90€",
+        "tags": []
       },
       {
         "name": "Pulled beef chilaquiles, salsa verde sekä tomaatti-avokado salsaa",
@@ -47,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
-        "price": "",
+        "name": "Vihreät pavut tomaatti-basilikakastikkeessa",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -98,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
