@@ -1,28 +1,21 @@
 {
-  "fetchedAt": "2026-07-09T16:49:30.112767+03:00",
-  "date": "9.7.",
+  "fetchedAt": "2026-07-10T12:58:21.716571+03:00",
+  "date": "10.7.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Vihreä kasviskeitto ja fetamurua",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Rapea possunleike, talon remouladella ja muhennetulla perunalla, sekä kasviksilla",
+        "name": "Kanaa korealaisittain, seesam-kaalisalaatti, edamamepapuja ja riisiä sekä chilimajoneesi",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Fried no-chicken ja muhennutella peruna sekä kasviksia",
+        "name": "Rapeaa tofua korealaisittain, seesam kaalisalaatti, edamamepapuja ja riisiä sekä chilimajoneesi",
         "price": "14,90€",
-        "tags": []
-      },
-      {
-        "name": "Pannukakkua ja hilloa",
-        "price": "",
         "tags": []
       },
       {
@@ -52,13 +45,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Teriyaki-kasvikset g ve",
-        "price": "",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Naudanlihapata rusinoilla",
-        "price": "14,50€",
+        "name": "Grillattuja kasviksia g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -98,18 +91,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, hollandaisekastike ja perunamuusiagl",
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Jauhemaksapihvejä, pekonikastiketta ja perunamuusial",
+        "name": "Hinta:  Omenaista porsaanposkea ja valkosipuliperunoitagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kermainen pekonipastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "price": "22,00€",
         "tags": []
       }
     ]
