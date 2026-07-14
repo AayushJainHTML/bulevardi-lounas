@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-13T16:23:26.691986+03:00",
-  "date": "13.7.",
+  "fetchedAt": "2026-07-14T11:33:41.049435+03:00",
+  "date": "14.7.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kufta-kana",
+        "name": "Lammasta jogurttikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
         "price": "",
         "tags": []
       }
@@ -76,12 +76,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
+        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
