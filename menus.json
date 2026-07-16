@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-15T15:14:59.897724+03:00",
-  "date": "15.7.",
+  "fetchedAt": "2026-07-16T11:39:13.895506+03:00",
+  "date": "16.7.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Naudanlihapata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
+        "name": "Tahini-kukkakaalia g ve",
         "price": "14,50€",
         "tags": []
       }
@@ -71,33 +71,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
+        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vuohenjuustopastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kasvispyttipannugve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
-        "price": "22,00€",
         "tags": []
       }
     ]
