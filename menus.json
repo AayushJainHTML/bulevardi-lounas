@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-16T15:19:50.413875+03:00",
-  "date": "16.7.",
+  "fetchedAt": "2026-07-17T11:32:47.938878+03:00",
+  "date": "17.7.",
   "menus": {
     "southpark": [
       {
@@ -25,13 +25,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Grillattuja kasviksia g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -71,18 +71,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
+        "name": "Hinta:  Paneroitu kampela sitruunaisella kastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
+        "name": "Hinta:  Riistakäristys ja perunamuusigl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vuohenjuustopastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kasvispyttipannugve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
+        "price": "22,00€",
         "tags": []
       }
     ]
