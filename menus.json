@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-20T16:05:58.956373+03:00",
-  "date": "20.7.",
+  "fetchedAt": "2026-07-21T12:07:53.463977+03:00",
+  "date": "21.7.",
   "menus": {
     "southpark": [
       {
@@ -25,13 +25,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Lammascurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "14,50€",
+        "name": "Teriyaki-kasvikset g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -76,12 +76,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
+        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
+        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
