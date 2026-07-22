@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-21T15:23:27.292616+03:00",
-  "date": "21.7.",
+  "fetchedAt": "2026-07-22T12:06:52.410468+03:00",
+  "date": "22.7.",
   "menus": {
     "southpark": [
       {
@@ -25,13 +25,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammascurry",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Teriyaki-kasvikset g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -76,12 +76,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
