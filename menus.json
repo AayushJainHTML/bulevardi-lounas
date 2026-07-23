@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-22T15:24:38.780302+03:00",
-  "date": "22.7.",
+  "fetchedAt": "2026-07-23T12:05:26.765056+03:00",
+  "date": "23.7.",
   "menus": {
     "southpark": [
       {
@@ -25,13 +25,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Naudanlihamoussaka",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Kermaisia kasviksia",
+        "price": "",
         "tags": []
       }
     ],
@@ -71,33 +71,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
+        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Lihapullapastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
-        "price": "22,00€",
         "tags": []
       }
     ]
