@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-23T15:23:44.577416+03:00",
-  "date": "23.7.",
+  "fetchedAt": "2026-07-24T12:01:43.190229+03:00",
+  "date": "24.7.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihamoussaka",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -71,18 +71,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
+        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastike ja perunamuusil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
+        "name": "Hinta:  Karjalanpaistia ja perunamuusiagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Lihapullapastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "price": "22,00€",
         "tags": []
       }
     ]
