@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-24T15:18:28.999810+03:00",
-  "date": "24.7.",
+  "fetchedAt": "2026-07-27T13:24:55.575461+03:00",
+  "date": "27.7.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Grillattuja kasviksia g ve",
+        "name": "Välimerellinen paistettu kesäkurpitsa ve",
         "price": "",
         "tags": []
       }
@@ -76,27 +76,27 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Pariloidut muikut, tilli-kurkkukastike ja perunamuusil",
+        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja paprikamajoneesil",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Karjalanpaistia ja perunamuusiagl",
+        "name": "Hinta:  Jauhelihakastiketta ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihapullapastal",
+        "name": "Hinta:  Katkarapupastal",
         "price": "13,50€",
         "tags": []
       },
       {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
+        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
+        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
         "price": "22,00€",
         "tags": []
       }
