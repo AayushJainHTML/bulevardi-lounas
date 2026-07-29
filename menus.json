@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T15:53:50.699949+03:00",
-  "date": "28.7.",
+  "fetchedAt": "2026-07-29T12:19:31.687339+03:00",
+  "date": "29.7.",
   "menus": {
     "southpark": [
       {
@@ -25,13 +25,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Punainen kanacurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Vihreitä papuja g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -76,12 +76,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
