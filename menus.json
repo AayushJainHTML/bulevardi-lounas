@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-08-03T16:40:48.415923+03:00",
-  "date": "3.8.",
+  "fetchedAt": "2026-08-04T12:18:33.791947+03:00",
+  "date": "4.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Kesäkurpitsa-parsakaalikeitto",
+        "name": "Kesäkeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Valkoviinikanaa, paahdettuja persiljaperunoita ja kasviksia sekä fenkolidippi",
+        "name": "Possupihvi, kesäkurpitsa-fetasalaatti ja rapeiksi paistettuja perunoita",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kanatonsuikale, paahdettuja persiljaperunoita ja kasviksia sekä fenkolidippi",
+        "name": "Hernepihvi, kesäkurpitsa-fetasalaatti ja rapeiksi paistettuja perunoita",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,17 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta jogurttikastikkeessa",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kanatagine",
-        "price": "14,50€",
-        "tags": []
-      },
-      {
-        "name": "Okraa tomaattikastikkeessa g ve",
+        "name": "Kermaisia kasviksia",
         "price": "",
         "tags": []
       }
@@ -105,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja remouladekastikettal",
+        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Pippurihärkä ja perunamuusigl",
+        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
