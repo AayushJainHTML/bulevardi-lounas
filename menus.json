@@ -1,20 +1,20 @@
 {
-  "fetchedAt": "2026-08-04T16:02:21.622647+03:00",
-  "date": "4.8.",
+  "fetchedAt": "2026-08-05T12:17:50.121574+03:00",
+  "date": "5.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Kesäkeitto",
+        "name": "Raikas porkkana-inkiväärikeitto ja fetamurua",
         "price": "12,90€",
         "tags": []
       },
       {
-        "name": "Possupihvi, kesäkurpitsa-fetasalaatti ja rapeiksi paistettuja perunoita",
+        "name": "Savulohi pastaa ja sitruunaista pinaattia sekä fenkolia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hernepihvi, kesäkurpitsa-fetasalaatti ja rapeiksi paistettuja perunoita",
+        "name": "Savutofu pastaa ja sitruunaista pinaattia sekä fenkolia l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -47,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Kanakufta",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -98,12 +98,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
