@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T10:50:33.892177+03:00",
+  "fetchedAt": "2026-08-07T12:04:01.828049+03:00",
   "date": "7.8.",
   "menus": {
     "southpark": [
@@ -59,7 +59,92 @@
     ],
     "ravintola-lonkka": [
       {
-        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "40,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan marmoriulkofile 250g",
+        "price": "43,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "55,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Liekitetty lohibowl, edamame-papuja, valkosipuli-chilikurkkuja, kaaliriisiä ja soijamajoneesia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Paistettu tofu bowl, edamame-papuja, valkosipuli-chilikurkkuja, kaaliriisiä ja soijamajoneesia",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Juustoburgeri chilihillolla",
+        "price": "18,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "46,00€",
+        "tags": []
+      },
+      {
+        "name": "Höyrytettyä riisiä ja chilikurkkuja",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Viskikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Nduja-maustevoi",
         "price": "",
         "tags": []
       }
