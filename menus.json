@@ -1,20 +1,20 @@
 {
-  "fetchedAt": "2026-08-11T14:42:34.827085+03:00",
-  "date": "11.8.",
+  "fetchedAt": "2026-08-12T10:58:21.499887+03:00",
+  "date": "12.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahdettu fenkoli-perunakeitto",
+        "name": "Pinaattikeitto ja keitettyjä kananmunia",
         "price": "12,90€",
         "tags": []
       },
       {
-        "name": "Harissakanaa, kurkumariisiä, viileää minttujogurttia sekä paahdettua tomaattia",
+        "name": "Gnocchi-mozzarellapaistosta ja lihapullia sekä parmesaania ja basilikaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Harissalla maustettua kanatonta lastua, kurkumariisiä, viileää jogurttikastiketta sekä paahdettuja tomaatteja",
+        "name": "Gnocchi-mozzarellapaistosta ja vegepullia sekä parmesaania ja basilikaa",
         "price": "14,90€",
         "tags": []
       },
@@ -45,12 +45,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Punainen kanacurry",
+        "name": "Lammasta ja voipapuja",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Vihreät pavut tomaatti-basilikakastikkeessa ve",
+        "name": "Tahini-kukkakaalia g ve",
         "price": "14,50€",
         "tags": []
       }
@@ -176,12 +176,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
+        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
