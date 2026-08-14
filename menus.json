@@ -1,24 +1,26 @@
 {
-  "fetchedAt": "2026-08-13T14:45:51.640819+03:00",
-  "date": "13.8.",
+  "fetchedAt": "2026-08-14T10:56:12.716399+03:00",
+  "date": "14.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Chilillä ja limellä maustettua linssikeittoa veg",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Grillattua chorizo-raakamakkaraa, villiriisipilahvia, valkosipulia ja raikasta tomaattisalaattia",
+        "name": "Kanaa kookos-sitruunaruohocurryssa sekä riisiä",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Grillattua vegechorizoa, villiriisipilahvia, valkosipulikastiketta ja tuoretta tomaattisalaattia",
+        "name": "Tofua kookos-sitruunaruohocurryssa sekä riisiä",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Bouillabaisse ja aioli ranskalainen kala-äyriäiskeitto",
@@ -26,7 +28,7 @@
         "tags": []
       },
       {
-        "name": "Pitkään kypsennettyä naudan etuselkää, salvia-pappardellepastaa sekä balsamico-punaviinikastiketta",
+        "name": "Karitsan paahtopaistia, salvia-pappardellepastaa sekä balsamico-punaviinikastiketta",
         "price": "16,90€",
         "tags": []
       }
@@ -47,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Vihreitä papuja g ve",
+        "name": "Grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -173,18 +175,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
+        "name": "Hinta:  Paneroitu kampela sitruunaisella kastikkeella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
+        "name": "Hinta:  Riistakäristys ja perunamuusigl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vuohenjuustopastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kasvispyttipannugve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
+        "price": "22,00€",
         "tags": []
       }
     ]
