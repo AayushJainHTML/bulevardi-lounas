@@ -1,34 +1,32 @@
 {
-  "fetchedAt": "2026-08-14T14:42:37.419925+03:00",
-  "date": "14.8.",
+  "fetchedAt": "2026-08-17T10:30:33.277224+03:00",
+  "date": "17.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Chilillä ja limellä maustettua linssikeittoa veg",
+        "name": "Harissalla maustettu linssikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Kanaa kookos-sitruunaruohocurryssa sekä riisiä",
+        "name": "Mureaa limonellokanaa, paahdettua perunaa ja kasviksia sekä chilipestodippi",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tofua kookos-sitruunaruohocurryssa sekä riisiä",
+        "name": "Limonellotofua, paahdettua perunaa ja kasviksia sekä chilipestodippi",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Bouillabaisse ja aioli ranskalainen kala-äyriäiskeitto",
+        "name": "Katkarapu-caesarsalaatti",
         "price": "16,90€",
         "tags": []
       },
       {
-        "name": "Karitsan paahtopaistia, salvia-pappardellepastaa sekä balsamico-punaviinikastiketta",
+        "name": "Mureaa nautaraguuta ja punaviinirisottoa sekä vuohenjuustoa",
         "price": "16,90€",
         "tags": []
       }
@@ -49,99 +47,19 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Grillattuja kasviksia g ve",
+        "name": "Kermaisia kasviksia",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Pasta bolognese, yrttisalaattia, parmigianoa ja paahdettua kirsikkatomaattia",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Falafeleja, valkosipulihummusta, paahdettua munakoisoa ja yrttisalaattia",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Juustohampurilainen ja pikkelöityä jalapeñoa",
-        "price": "18,50€",
-        "tags": []
-      },
-      {
-        "name": "Viikon lounaspihvit",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Naudan flank steak 200g",
-        "price": "25,00€",
-        "tags": []
-      },
-      {
-        "name": "Naudan sisäfilepihvi 180g",
-        "price": "43,00€",
-        "tags": []
-      },
-      {
-        "name": "Black angus ulkofile 250g",
-        "price": "46,00€",
-        "tags": []
-      },
-      {
-        "name": "Marmori entrecote 300g",
-        "price": "56,00€",
-        "tags": []
-      },
-      {
-        "name": "Valitse lisuke",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Ranskalaiset ja ketsuppi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Vihersalaatti",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Paahdettua munakoisoa ja valkosipulihummusta",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Valitse kastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Viskikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Dijon- pippurikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Chimichurri",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Nduja-maustevoi",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
@@ -180,27 +98,27 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitu kampela sitruunaisella kastikkeella ja perunamuusial",
+        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Riistakäristys ja perunamuusigl",
+        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Vuohenjuustopastal",
+        "name": "Hinta:  Lihapullapastal",
         "price": "13,50€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kasvispyttipannugve",
+        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
         "price": "14,00€",
         "tags": []
       },
       {
-        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
+        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
         "price": "22,00€",
         "tags": []
       }
