@@ -1,22 +1,24 @@
 {
-  "fetchedAt": "2026-08-18T14:24:59.504156+03:00",
-  "date": "18.8.",
+  "fetchedAt": "2026-08-19T10:13:34.431497+03:00",
+  "date": "19.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkinen punajuurikeitto",
+        "name": "Juustolla maustettu kukkakaalikeitto",
         "price": "12,90€",
         "tags": []
       },
       {
-        "name": "Pilpil-katkarapupasta ja sitruunalla maustettu rucolasalaatti chili",
+        "name": "Thaimaustettua maapähkinäkanaa, höyrytettyä riisiä ja chilikurkkuja",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Pilpil-kikhernepasta ja sitruunalla maustettu rucolasalaatti chili",
+        "name": "Thai-maustettua maapähkinätofua, höyrytettyä riisiä ja chilikurkkuja",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Jättirapu caesar ja rapeita krutonkeja l g , kala",
@@ -45,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihamoussaka",
+        "name": "Punainen kanacurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -176,12 +178,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
