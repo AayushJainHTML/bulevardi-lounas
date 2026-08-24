@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T11:52:56.286690+03:00",
+  "fetchedAt": "2026-08-24T13:10:02.076076+03:00",
   "date": "24.8.",
   "menus": {
     "southpark": [
@@ -49,7 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "name": "Kanaa fajitas-tyyliin",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Välimerellinen paistettu kesäkurpitsa ve",
         "price": "",
         "tags": []
       }
