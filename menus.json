@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-25T14:27:03.506252+03:00",
-  "date": "25.8.",
+  "fetchedAt": "2026-08-26T10:23:53.229285+03:00",
+  "date": "26.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Purjo-perunakeitto",
+        "name": "Tom yam-kookos keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Grillattua oreganokanaa ja tomaatti ‘risottoa‘",
+        "name": "Myskikurpitsalasagne ja marinoitu sipuli-rucolasalaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Grillattua halloumia ja sieniä sekä tomaatti ‘risottoa’",
+        "name": "Myskikurpitsa-feta-kasvislasagne, marinoitu sipuli-rucolasalaatti",
         "price": "14,90€",
         "tags": []
       },
@@ -47,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
+        "name": "Kanatagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Tagine ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -178,12 +178,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
