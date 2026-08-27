@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-26T14:29:44.411161+03:00",
-  "date": "26.8.",
+  "fetchedAt": "2026-08-27T20:46:33.056933+03:00",
+  "date": "27.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Tom yam keitto",
+        "name": "Hernekeitto ja palvikinkkua",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Myskikurpitsalasagne ja marinoitu sipuli-rucolasalaatti",
+        "name": "Vietnamilaisia bao-sämpylöitä, pitkään haudutettua chilipossua, raikasta pikkelssiä, majoneesia ja yrttejä",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Myskikurpitsa-feta-kasvislasagne, marinoitu sipuli-rucolasalaatti",
+        "name": "Vietnamilaisia bao-sämpylöitä chilitofulla, raikasta pikkelöityä kurkkua, majoneesia ja yrttejä",
         "price": "14,90€",
         "tags": []
       },
@@ -47,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanatagine",
+        "name": "Naudanlihapata rusinoilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
+        "name": "Kermaisia kasviksia",
         "price": "",
         "tags": []
       }
@@ -173,33 +173,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
+        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Katkarapupastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
-        "price": "22,00€",
         "tags": []
       }
     ]
