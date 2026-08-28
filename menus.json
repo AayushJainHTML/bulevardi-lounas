@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-27T23:54:44.170678+03:00",
-  "date": "27.8.",
+  "fetchedAt": "2026-08-28T21:53:26.858592+03:00",
+  "date": "28.8.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto ja palvikinkkua",
+        "name": "Valkopapu- ja paahdettu valkosipulikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Vietnamilaisia bao-sämpylöitä, pitkään haudutettua chilipossua, raikasta pikkelssiä, majoneesia ja yrttejä",
+        "name": "Kebabbia mausteisessa tomaattikastikkeessa, tarjoillaan perunoiden, salaatin sekä valkosipulikastikkeen kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Vietnamilaisia bao-sämpylöitä chilitofulla, raikasta pikkelöityä kurkkua, majoneesia ja yrttejä",
+        "name": "Vebabia mausteisessa tomaattikastikkeessa, tarjoillaan perunoiden, salaatin sekä valkosipulikastikkeen kanssa",
         "price": "14,90€",
         "tags": []
       },
@@ -47,12 +47,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata rusinoilla",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kermaisia kasviksia",
+        "name": "Friday grill fiesta: grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
@@ -173,18 +173,33 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Hernekeitto",
+        "name": "Hinta:  Lounaskeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
+        "name": "Hinta:  Paneroitua kampelaa, kapriskastiketta ja kermaperunatl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
+        "name": "Hinta:  Kermainen pyttipannu ja kananmunagl",
         "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Katkarapupastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
+        "price": "22,00€",
         "tags": []
       }
     ]
