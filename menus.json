@@ -1,13 +1,134 @@
 {
-  "fetchedAt": "2026-08-29T00:19:20.638990+03:00",
-  "date": "29.8.",
+  "fetchedAt": "2026-08-31T17:14:50.274737+03:00",
+  "date": "31.8.",
   "menus": {
-    "southpark": [],
-    "sodexo-kiltakellari": [],
-    "ravintola-brod-punavuori": [],
-    "levant-bulevardi": [],
-    "ravintola-lonkka": [],
-    "mekong": [],
-    "salve": []
+    "southpark": [
+      {
+        "name": "Kurpitsakeitto",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Paahdettua dijon-kanaa, rakuunalla maustettuja perunoita ja porkkanoita sekä marinoitua kesäkurpitsaa",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Rapeaa dijon-siirappitofua, rakuunalla maustettuja perunoita ja porkkanoita sekä marinoitua kesäkurpitsaa",
+        "price": "14,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Mureaa naudan etuselkää, sipuli-quiche, sesongin kaalia ja balsamicokastiketta",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Mereneläväpaella sahramiaiolilla ja mustekalarenkailla",
+        "price": "16,90€",
+        "tags": []
+      }
+    ],
+    "sodexo-kiltakellari": [
+      {
+        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "ravintola-brod-punavuori": [
+      {
+        "name": "Katso päivän lounaslista ravintolan sivuilta!",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "levant-bulevardi": [
+      {
+        "name": "Kanaa fajitas-tyyliin",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Välimerellinen paistettu kesäkurpitsa ve",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "ravintola-lonkka": [
+      {
+        "name": "Päivän lounaslista puuttuu palvelusta",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "mekong": [
+      {
+        "name": "12,7e Lunch buffet 27/10 Lunch buffet includes salad bar, tea/coffee and desert",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "2. Phở bò tái nạm - beef pho soup Traditional vietnamese pho rice noodles soup with beef fillet and brisket, prepared in southern style",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "3. Bún thịt xào contains peanuts Lemongrass stir-fried pork tenderloin served with rice noodles, roasted peanuts, green salad, pickled carrot and daikon, and sweet fish sauce",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "4. Hủ tiếu chay- vegan soup contains peanuts, celery, soya, wheat Hủ tiếu tapioca noodles in vegetable broth, topped w/ roasted peanuts, mushroom, bean curd, fried vegan wonton, soy sausage, fried onions, and sliced tofu",
+        "price": "15,90€",
+        "tags": []
+      },
+      {
+        "name": "5. Vegan phở Rice noodles in vegetable broth, topped w/ vegan chicken, mushroom, tofu, mung sprouts and herbs",
+        "price": "",
+        "tags": []
+      }
+    ],
+    "salve": [
+      {
+        "name": "Hinta:  Lounaskeitto",
+        "price": "11,90€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja remouladekastikettal",
+        "price": "14,60€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Pippurihärkä ja perunamuusigl",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Kermainen pekonipastal",
+        "price": "13,50€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Falafelpullat, tsatsiki ja riisigve",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Hinta:  Oopperaleike ja perunamuusil Paneroitu porsaanleike ja paistettu kananmuna",
+        "price": "22,00€",
+        "tags": []
+      }
+    ]
   }
 }
