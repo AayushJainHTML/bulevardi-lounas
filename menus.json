@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-09-01T18:23:33.698701+03:00",
-  "date": "1.9.",
+  "fetchedAt": "2026-09-02T14:33:35.250580+03:00",
+  "date": "2.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Chili-bataatti keitto",
+        "name": "Lehtikaali-papukeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Naudanliha-ragu, perunamuusia, karamellisoitua sipulia ja parmesan-juustoa",
+        "name": "Vodkapastaa, valkosipuli-yrttikatkarapuja ja marinoitua sitruunafenkolia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Vegejauhis-ragu, perunamuusia, karamellisoitua sipulia ja parmesan-juustoa",
+        "name": "Vodkapastaa, valkosipuli-yrttitempehiä ja marinoitua sitruunafenkolia l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta jogurttikastikkeessa",
+        "name": "Kermaista kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Haudutettua pinaattia g ve",
         "price": "",
         "tags": []
       }
@@ -180,12 +180,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
