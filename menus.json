@@ -1,11 +1,33 @@
 {
-  "fetchedAt": "2026-09-07T19:17:30.768491+03:00",
-  "date": "7.9.",
+  "fetchedAt": "2026-09-08T14:32:58.789719+03:00",
+  "date": "8.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Ravintolamme on tänään suljettu",
-        "price": "",
+        "name": "Kermainen juurisellerikeitto",
+        "price": "12,90€",
+        "tags": [
+          "V"
+        ]
+      },
+      {
+        "name": "Parmesan fried chicken, paahdettuja ranch-perunoita ja kurkku-jalapenosalaattia",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Paneroitu kasvisnugetti, paahdettuja ranch-perunoita ja kurkku-jalapenosalaatti",
+        "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Grillattua manteli dukkah maissikanan rintaa, harissamajoneesi ja paahdettuja juustokumina porkkanoita ja perunaa sekä fetakreemi",
+        "price": "16,90€",
+        "tags": []
+      },
+      {
+        "name": "Paistettua lohta, pinaatti-beurre blanc, nappulaperuna",
+        "price": "16,90€",
         "tags": []
       }
     ],
@@ -25,19 +47,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kermaista kanacurrya",
+        "name": "Naudanlihamoussaka",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Sieniä bechamelkastikkeella",
+        "name": "Kasvismoussaka",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Rapeaa turskaa, paahdettuja perunoita ja paistettuja vihanneksia ruskistetulla voikastikkeella",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Kurpitsarisottoa, saksanpähkinää ja fetajuustoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Chorizo-juustohampurilainen",
+        "price": "18,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "43,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "46,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Paahdettuja perunoita ja paistettuja vihanneksia",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Konjakki-korvasienikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ruskistettua voikastiketta",
         "price": "",
         "tags": []
       }
@@ -76,12 +178,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
+        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
