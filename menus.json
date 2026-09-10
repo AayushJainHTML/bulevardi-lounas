@@ -1,23 +1,28 @@
 {
-  "fetchedAt": "2026-09-09T18:01:05.322913+03:00",
-  "date": "9.9.",
+  "fetchedAt": "2026-09-10T14:37:38.615658+03:00",
+  "date": "10.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Kasvis gulassi ja smetanaa",
+        "name": "Hernekeitto ja palvikinkkua",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Karitsamureketta, kermaperunaa, tumma valkosipulikastike ja minttuhyytelö",
+        "name": "Pitkään haudutettu sieni-kanapata, höyrytetty riisi ja vihreitä papuja",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Hernepihvejä, kermaperunaa, tumma valkosipulikastike ja minttuhyytelö",
+        "name": "Hernis-herkkusieni pataa, höyrytetty riisi ja vihreitä papuja",
         "price": "14,90€",
+        "tags": []
+      },
+      {
+        "name": "Pannukakkua ja hilloa",
+        "price": "",
         "tags": []
       },
       {
@@ -47,12 +52,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja okraa",
+        "name": "Kanatagine",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Tagine ve",
         "price": "",
         "tags": []
       }
@@ -173,33 +178,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
+        "name": "Hinta:  Kirjolohta, sienikastiketta ja yrttiperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
+        "name": "Hinta:  Linströminpihvi sipulikastikkeella ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vuohenjuustopastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Kasvispyttipannugve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Surf`n turf ja perunamuusil Paneroitu porsaanleike ja katkarapuskagen",
-        "price": "22,00€",
         "tags": []
       }
     ]
