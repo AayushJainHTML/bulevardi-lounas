@@ -1,22 +1,20 @@
 {
-  "fetchedAt": "2026-09-14T19:47:55.556659+03:00",
-  "date": "14.9.",
+  "fetchedAt": "2026-09-15T14:57:55.673613+03:00",
+  "date": "15.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Kuohkea omena-palsternakkakeitto",
+        "name": "Tomaatti-vuohenjuustokeitto",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Rapeaksi paistettua possun kylkeä ja pelmeenejä, smetanaa sekä karamellisoitua sipulia",
+        "name": "Perinteisiä lihapullia, perunamuusia, kermakastiketta ja puolukkaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paistettuja jauhispihvejä, pelmeenejä, smetanaa ja raramellisoitua sipulia",
+        "name": "Vegepullat, kermakastike, perunamuusi ja puolukkahilloa",
         "price": "14,90€",
         "tags": []
       },
@@ -47,19 +45,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Inkivääriset kanapöyrykät",
+        "name": "Naudanlihapata rusinoilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Kesäkurpitsaa ja bataattia lookoskastikkeessa",
+        "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Grillattua kananreisipalaa, pinaattifregolaa ja vuohenjuustoa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Falafelia, punajuuri baba ganoush, höyrytettyä riisiä ja grillattua kesäkurpitsaa",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Pekoni- juustoburgeri",
+        "price": "18,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "43,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile 250g",
+        "price": "46,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Pinaattifregolaa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Konjakki-korvasienikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punajuuri baba ganoush",
         "price": "",
         "tags": []
       }
@@ -98,12 +176,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Fish & chips, ranskalaisia perunoita ja aiolial",
+        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Häränlihastroganoff ja perunamuusigl",
+        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
