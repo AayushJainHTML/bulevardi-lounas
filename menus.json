@@ -1,22 +1,26 @@
 {
-  "fetchedAt": "2026-09-15T18:27:06.988088+03:00",
-  "date": "15.9.",
+  "fetchedAt": "2026-09-16T14:53:40.668095+03:00",
+  "date": "16.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Tomaatti-vuohenjuustokeitto",
+        "name": "Ribollita-keitto – toscanalainen papukeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Perinteisiä lihapullia, perunamuusia, kermakastiketta ja puolukkaa",
+        "name": "Tom kha gai -kanaa kookoskastikkeessa ja höyrytettyä riisiä m g kala",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Vegepullat, kermakastike, perunamuusi ja puolukkahilloa",
+        "name": "Tom kah -tofua kookoskastikkeessa ja höyrytettyä riisiä",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Karitsanpaistia, punaviinikastiketta, minttuhyytelöä ja valkosipuliperunakakkua",
@@ -45,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata rusinoilla",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kesäkurpitsaa ja bataattia lookoskastikkeessa",
+        "name": "Linssi-mujadara ve",
         "price": "",
         "tags": []
       }
@@ -176,12 +180,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
