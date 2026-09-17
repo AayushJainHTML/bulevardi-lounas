@@ -1,26 +1,29 @@
 {
-  "fetchedAt": "2026-09-16T18:20:04.805692+03:00",
-  "date": "16.9.",
+  "fetchedAt": "2026-09-17T14:56:46.324362+03:00",
+  "date": "17.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Ribollita-keitto – toscanalainen papukeitto",
+        "name": "Hernekeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Tom kha gai -kanaa kookoskastikkeessa ja höyrytettyä riisiä m g kala",
+        "name": "Pannukakkua sekä hilloa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Paistettua valkosipuli-hunajakanaa, lehtikaalipestopastaa ja paahdettuja tomaatteja",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tom kah -tofua kookoskastikkeessa ja höyrytettyä riisiä",
+        "name": "Paistettua valkosipuli-hunajakanatonta lastua, lehtikaalipestopastaa ja paahdettuja tomaatteja",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Karitsanpaistia, punaviinikastiketta, minttuhyytelöä ja valkosipuliperunakakkua",
@@ -49,12 +52,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Lammasta jogurttikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Linssi-mujadara ve",
+        "name": "Teriyaki-kasvikset g ve",
         "price": "",
         "tags": []
       }
@@ -175,33 +178,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
+        "name": "Hinta:  Kirjolohta, tartarkastiketta ja yrttiperunatgl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Metsästäjänpihvi, sienikastike ja perunamuusil",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Lihapullapastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsäsienikääryle ja perunamuusigve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Porsaanleike, choron-kastike ja ranskanperunatl",
-        "price": "22,00€",
         "tags": []
       }
     ]
