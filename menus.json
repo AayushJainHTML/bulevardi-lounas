@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-09-22T18:25:48.063512+03:00",
-  "date": "22.9.",
+  "fetchedAt": "2026-09-23T14:55:04.903093+03:00",
+  "date": "23.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Kasvisborssi",
+        "name": "Silkkistä mustajuurikeittoa",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Masala chicken – mausteinen tomaatti-sipulikastike ja kanaa sekä höyrytettyä riisiä",
+        "name": "Perinteinen nakkikastike ja perunamuusia tarjoillaan suolakurkun kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paneer masala: mausteinen tomaatti-sipulikastike ja kotijuustoa sekä höyrytettyä riisiä",
+        "name": "Kasvisnakkikastike ja perunamuusi, tarjoillaan suolakurkun kanssa",
         "price": "14,90€",
         "tags": [
           "V"
@@ -47,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Fajitas-maustettua naudanlihaa",
+        "name": "Teriyaki-kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Kasvispata g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -158,12 +160,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
