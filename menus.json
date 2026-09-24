@@ -1,22 +1,27 @@
 {
-  "fetchedAt": "2026-09-23T18:21:09.614198+03:00",
-  "date": "23.9.",
+  "fetchedAt": "2026-09-24T15:02:45.930204+03:00",
+  "date": "24.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkistä mustajuurikeittoa",
+        "name": "Hernekeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Perinteinen nakkikastike ja perunamuusia tarjoillaan suolakurkun kanssa",
+        "name": "Pannukakkua sekä hilloa",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Rapeaa hunaja-cashew-kanaa ja paistettuja nuudeleita",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kasvisnakkikastike ja perunamuusi, tarjoillaan suolakurkun kanssa",
+        "name": "Rapeaa hunaja-cashew-tofua ja paistettuja nuudeleita ja broccolia m g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,12 +54,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Teriyaki-kanaa",
+        "name": "Naudanlihamoussaka",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
+        "name": "Moussaka ve",
         "price": "14,50€",
         "tags": []
       }
@@ -155,33 +160,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
+        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Katkarapupastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
-        "price": "22,00€",
         "tags": []
       }
     ]
