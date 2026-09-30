@@ -1,22 +1,26 @@
 {
-  "fetchedAt": "2026-09-29T19:48:01.381721+03:00",
-  "date": "29.9.",
+  "fetchedAt": "2026-09-30T15:51:59.930321+03:00",
+  "date": "30.9.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahdettu paprikakeitto",
+        "name": "Porkkana-maapähkinäkeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Feijoada-brasilialainen lihapata, tarjoillaan riisin ja appelsiini-avokado salsan kanssa",
+        "name": "Paistettua sitruuna-minttu kanaa, tzazikia ja tomaattiliemessä kypsennettyjä lohkoperunoita, feta salaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Vege feijoada-kasvisversio brasilialaisesta padasta, tarjoillaan riisin ja appelsiini-avokado salsan kanssa",
+        "name": "Sitruuna linsseillä täytettyjä paprikoita, tzazikia ja tomaattiliemessä kypsennettyjä lohkoperunoita, feta salaatti",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Naudan paahtopaistia, juuriselleripyre, sesongin rakuuna kasviksia ja punaviinikastiketta",
@@ -45,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihaa ja voipapuja tomaattikastikkeessa",
+        "name": "Naudanlihapata rusinoilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
@@ -156,12 +160,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
