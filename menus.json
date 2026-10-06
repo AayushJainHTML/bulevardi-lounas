@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-05T21:43:42.641690+03:00",
-  "date": "5.10.",
+  "fetchedAt": "2026-10-06T16:29:12.979306+03:00",
+  "date": "6.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Kermainen uunijuureskeitto",
+        "name": "Tuoreherne-parsakaali keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Lihapullia ja pinaatti-ricotta tortelloneja marry me kastikkeessa",
+        "name": "Kana caesar uuniperuna",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Punajuuripyörykkä ja pinaatti ricotta tortelloneja marry me kastikkeessa",
+        "name": "Kanaton caesar uuniperuna",
         "price": "14,90€",
         "tags": []
       },
@@ -47,19 +47,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunakanaa valkoviinikastikkeessa",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Chorizolihapullia fi, höyrytettyä riisiä, avokadokreemiä ja tomaattikastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Falafeleja, höyrytettyä riisiä, paahdettua munakoisoa ja tomaattikastiketta",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Fetajuusto-hampurilainen naudanlihalla fi",
+        "price": "18,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Naudan flank steak uy 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi fi 180g",
+        "price": "43,00€",
+        "tags": []
+      },
+      {
+        "name": "Black angus ulkofile uy 250g",
+        "price": "46,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote fi 300g",
+        "price": "56,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Höyrytettyä riisiä ja avokadokreemiä",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Konjakki-korvasienikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Tomaattikastike",
         "price": "",
         "tags": []
       }
@@ -78,12 +158,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Päivän kala, ranskalaisia perunoita ja currymajoneesil",
+        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
         "price": "14,00€",
         "tags": []
       },
