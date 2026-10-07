@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-06T20:02:55.729885+03:00",
-  "date": "6.10.",
+  "fetchedAt": "2026-10-07T16:41:12.702343+03:00",
+  "date": "7.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Tuoreherne-parsakaali keitto",
+        "name": "Tomaattikeitto ja krutonkeja",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Kana caesar uuniperuna",
+        "name": "Fried chicken ja japanilainen okonomiaki-pannukakku",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kanaton caesar uuniperuna",
+        "name": "Rapea kasvis leike ja japanilainen okonomiaki-pannukakku",
         "price": "14,90€",
         "tags": []
       },
@@ -47,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanaa fajitas-tyyliin",
+        "name": "Naudanlihaa ja paahdettuja vihreitä härkäpapuja valkosipulilla ja korianterilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Chilipinaatti ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -158,12 +158,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, tartarkastiketta ja perunamuusial",
+        "name": "Hinta:  Uunisei sitruunaisella kuorrutteella ja perunamuusial",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Hirvigrilleri, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:  Broileria vuohenjuustokastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
