@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-10-13T20:57:37.469923+03:00",
-  "date": "13.10.",
+  "fetchedAt": "2026-10-14T15:12:24.014551+03:00",
+  "date": "14.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Kermainen kukkakaalikeitto",
+        "name": "Ranskalainen pistou-keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Grillattua kanaa ja myskikurpitsapastaa",
+        "name": "Parmesan fried chicken -burgeri, tarjoillaan talon perunoiden kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Grillattua halloumia ja myskikurpitsapastaa g , veg",
+        "name": "Parmesan- ja portobelloburgeri, tarjoillaan talon perunoiden kanssa",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Paistettua ankanrintaa, confattuja perunoita ja lehtikaalia sekä tummaa appelsiinikastiketta",
@@ -49,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kermaista kanacurrya",
+        "name": "Naudanlihapata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Bulguria tomaattikastikkeessa ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -160,12 +158,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa, sitruunavoikastike ja perunamuusial",
+        "name": "Hinta:  Smetanainen uunisei ja perunamuusigl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Bratwurstia, hapankaalia ja perunamuusiagl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
