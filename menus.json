@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-10-20T18:33:27.825209+03:00",
-  "date": "20.10.",
+  "fetchedAt": "2026-10-21T15:09:10.283296+03:00",
+  "date": "21.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Pinaattikeittoa ja keitettyjä kananmunia",
+        "name": "Kermainen metsäsienikeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Punaviinissä pitkään kypsennettyä nautaa, polentaa ja karamellisoitusipuli creme fraiche",
+        "name": "Perinteisiä kaalikääryleitä, kermakastiketta, talon puolukkahilloa ja perunamuusia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paistettua tofua ja punaviini-sienikastiketta, polentaa ja karamellispitu sipuli creme fraiche",
+        "name": "Kasviskaalikääryleitä, kermakastiketta, talon puolukka hilloa ja perunamuusia",
         "price": "14,90€",
         "tags": [
           "V"
@@ -47,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Teriyaki-kanaa",
+        "name": "Sitruunaista kanaa ja perunoita",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
