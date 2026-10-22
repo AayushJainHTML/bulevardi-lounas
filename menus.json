@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-21T18:50:21.296683+03:00",
-  "date": "21.10.",
+  "fetchedAt": "2026-10-22T15:12:26.068326+03:00",
+  "date": "22.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Kermainen metsäsienikeitto",
+        "name": "Perinteinen hernekeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Perinteisiä kaalikääryleitä, kermakastiketta, talon puolukkahilloa ja perunamuusia",
+        "name": "Tonkatsu curry- rapeaa porsaan leikettä japanilaisen curryn kanssa sekä höyrytettyä riisiä ja lyttykurkkusalaatti",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kasviskaalikääryleitä, kermakastiketta, talon puolukka hilloa ja perunamuusia",
+        "name": "Rapea kasvis leike ja japanilainen curry, tarjoillaan riisin ja lyttykurkku salaatin kanssa veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Sitruunaista kanaa ja perunoita",
+        "name": "Naudanlihapata rusinoilla",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Puainen kasviscurry g ve",
         "price": "",
         "tags": []
       }
