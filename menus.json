@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-10-22T18:47:30.015161+03:00",
-  "date": "22.10.",
+  "fetchedAt": "2026-10-23T14:54:02.981435+03:00",
+  "date": "23.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Perinteinen hernekeitto",
+        "name": "Chileläinen kasvis cazuela keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Tonkatsu curry- rapeaa porsaan leikettä japanilaisen curryn kanssa sekä höyrytettyä riisiä ja lyttykurkkusalaatti",
+        "name": "Avokadopastaa ja marinoituja chilikatkarapuja",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Rapea kasvis leike ja japanilainen curry, tarjoillaan riisin ja lyttykurkku salaatin kanssa veg",
+        "name": "Avokado pastaa ja rapeita sitruuna kikherneitä l g , veg",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata rusinoilla",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Puainen kasviscurry g ve",
+        "name": "Friday grill fiesta: grillattuja kasviksia g ve",
         "price": "",
         "tags": []
       }
