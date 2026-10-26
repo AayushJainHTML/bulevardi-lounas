@@ -1,34 +1,32 @@
 {
-  "fetchedAt": "2026-10-23T18:38:29.728563+03:00",
-  "date": "23.10.",
+  "fetchedAt": "2026-10-26T15:24:22.119183+02:00",
+  "date": "26.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Chileläinen kasvis cazuela keitto",
+        "name": "Valkoviinillä höystettyä mustajuurikeittoa",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Avokadopastaa ja marinoituja chilikatkarapuja",
+        "name": "Kanaa milanolaisittain – rapeaa kanaa, sitruuna-aiolia, parmesan-rucola peruna salaattia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Avokado pastaa ja rapeita sitruuna kikherneitä l g , veg",
+        "name": "No-chicken milanese – rapea kasvisleike, sitruunamajoneesi, parmesaani-rucolasalaatti perunoilla",
         "price": "14,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Paistettua maissikanan rintaa, béarnaisekastiketta, grillattua sydän salattia ja talon rapeita lohkoperunoita",
+        "name": "Korealaisittain maustetut porsaan baby back ribsit, talon pika kimchi, pikkelöityä retikkaa sekä rapeat seesamiperunat",
         "price": "16,90€",
         "tags": []
       },
       {
-        "name": "Paistettuja jättiravun pyrstöjä, kurpitsa ohrattoa ja beurreblanc kastiketta sekä mustakaalia",
+        "name": "Paistettua lohta, mustajuuripyrettä, kauden kasviksia ja appelsiini-voikastiketta",
         "price": "16,90€",
         "tags": []
       }
@@ -49,99 +47,19 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "name": "Kermaista kanaa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Friday grill fiesta: grillattuja kasviksia g ve",
+        "name": "Teriyaki-kasvikset g ve",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Rapeaa kanaa fi, teriyakikastiketta, pikkelöityjä kasviksia, höyrytettyä riisiä ja soijamajoneesia",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Paistettua tofua, höyrytettyä riisiä, pikkelöityjä kasviksia, satay-kastiketta",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Paahdettu valkosipuli-naudanlihahampurilainen fi",
-        "price": "18,50€",
-        "tags": []
-      },
-      {
-        "name": "Viikon lounaspihvit",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Naudan flank steak 200g",
-        "price": "25,00€",
-        "tags": []
-      },
-      {
-        "name": "Naudan sisäfilepihvi 180g",
-        "price": "43,00€",
-        "tags": []
-      },
-      {
-        "name": "Black angus ulkofile uy 250g",
-        "price": "46,00€",
-        "tags": []
-      },
-      {
-        "name": "Marmori entrecote 300g",
-        "price": "56,00€",
-        "tags": []
-      },
-      {
-        "name": "Valitse lisuke",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Ranskalaiset ja ketsuppi",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Vihersalaatti",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Höyrytettyä riisiä ja pikkelöityjä kasviksia",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Valitse kastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Konjakki-korvasienikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Dijon- pippurikastike",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Punainen chimichurri",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "Teriyakikastiketta",
+        "name": "Päivän lounaslista puuttuu palvelusta",
         "price": "",
         "tags": []
       }
