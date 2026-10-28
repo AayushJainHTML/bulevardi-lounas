@@ -1,26 +1,22 @@
 {
-  "fetchedAt": "2026-10-27T18:12:41.354162+02:00",
-  "date": "27.10.",
+  "fetchedAt": "2026-10-28T15:19:04.774664+02:00",
+  "date": "28.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahteinen tomaatti-paprika keitto",
+        "name": "Maissi-perunachowder – täyteläinen amerikkalainen maiss",
         "price": "12,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
-        "name": "Southparkin pasta ´carbonara´-klassinen carbonara pasta possunkyljestä, maustettuna mustapippurilla ja parmesan juustolla",
+        "name": "Turkkilaisia köfte lihavartaita, jogurttikastike, raikas kurkku-tomaatti-sipuli salaatti ja feta juustoa, tarjoillaan pitaleivän kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Broccoli-lehtikaali pasta-kermainen pasta hiillostetulla broccolilla ja lehtikaalilla l g , veg",
+        "name": "Talon rapea falafel, jogurttikastike, raikas kurkku-tomaatti-sipuli salaatti ja feta juustoa, tarjoillaan pitaleivän kanssa",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Korealaisittain maustetut porsaan baby back ribsit, talon pika kimchi, pikkelöityä retikkaa sekä rapeat seesamiperunat",
@@ -49,12 +45,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Tahini-kukkakaalia g ve",
+        "name": "Naudanlihamoussaka",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Naudanlihaa tomaattikastikeessa vihreiden papujen kera",
+        "name": "Moussaka ve",
         "price": "14,50€",
         "tags": []
       }
