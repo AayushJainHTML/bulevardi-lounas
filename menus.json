@@ -1,22 +1,26 @@
 {
-  "fetchedAt": "2026-10-28T19:00:01.404879+02:00",
-  "date": "28.10.",
+  "fetchedAt": "2026-10-29T15:28:31.374907+02:00",
+  "date": "29.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Maissi-perunachowder – täyteläinen amerikkalainen maiss",
+        "name": "Hernekeitto ja palvikinkkua",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Turkkilaisia köfte lihavartaita, jogurttikastike, raikas kurkku-tomaatti-sipuli salaatti ja feta juustoa, tarjoillaan pitaleivän kanssa",
+        "name": "Kanaa normandialaisittain- omenasiiderissä kypsennettyä mehevää kanaa ja muhennettua perunaa, sekä rapeaa pekonia tarjoillaan vihreiden papujen kanssa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Talon rapea falafel, jogurttikastike, raikas kurkku-tomaatti-sipuli salaatti ja feta juustoa, tarjoillaan pitaleivän kanssa",
+        "name": "Tofua normandialaisittain-paistettua tofua ja täyteläistä omenasiideri kastiketta, muhennettua perunaa ja vihreitä papuja",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Korealaisittain maustetut porsaan baby back ribsit, talon pika kimchi, pikkelöityä retikkaa sekä rapeat seesamiperunat",
@@ -45,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihamoussaka",
+        "name": "Punainen kanacurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Moussaka ve",
-        "price": "14,50€",
+        "name": "Linssimujadara g ve",
+        "price": "",
         "tags": []
       }
     ],
