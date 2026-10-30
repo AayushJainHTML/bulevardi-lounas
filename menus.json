@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-10-29T19:18:47.841081+02:00",
-  "date": "29.10.",
+  "fetchedAt": "2026-10-30T15:16:45.411262+02:00",
+  "date": "30.10.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto ja palvikinkkua",
+        "name": "Sitruunainen kalaton keitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Kanaa normandialaisittain- omenasiiderissä kypsennettyä mehevää kanaa ja muhennettua perunaa, sekä rapeaa pekonia tarjoillaan vihreiden papujen kanssa",
+        "name": "Memphis tyyliin rubattuja kanan koipinuijia, bataattilohkoja, tulisen makeita cowboy papuja ja raikasta avokadoa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Tofua normandialaisittain-paistettua tofua ja täyteläistä omenasiideri kastiketta, muhennettua perunaa ja vihreitä papuja",
+        "name": "Rapeita vege nugetteja, bataattilohkoja, tulisen makeita cowboy papuja ja raikasta avokadoa",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Korealaisittain maustetut porsaan baby back ribsit, talon pika kimchi, pikkelöityä retikkaa sekä rapeat seesamiperunat",
@@ -49,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Punainen kanacurry",
-        "price": "14,50€",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "price": "15,50€",
         "tags": []
       },
       {
-        "name": "Linssimujadara g ve",
-        "price": "",
+        "name": "Friday grill fiesta: grillattuja kasviksia g ve",
+        "price": "15,50€",
         "tags": []
       }
     ],
