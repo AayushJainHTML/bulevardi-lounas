@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-02T22:38:01.880275+02:00",
-  "date": "2.11.",
+  "fetchedAt": "2026-11-03T16:30:45.800029+02:00",
+  "date": "3.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Silkkistä punajuurikeittoa",
+        "name": "Kermainen palsternakka-omenakeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Paistettua hunajakanaa ja kreikkalaisittain maustettua orzo-fetasalaattia ja tzatzikia",
+        "name": "Talon lihamureketta, perunamuusia, kermaista sipuli-dijonkastiketta sekä puolukkaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Paistettua bbq-oumphia! ja kreikkalaisittain maustettua orzo-fetasalaattia ja tzatzikia",
+        "name": "Talon kikhernepihvejä, perunamuusia, kermaista sipuli-dijonkastiketta sekä puolukkaa",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,19 +49,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kermainen savukana",
+        "name": "Kanaa fajitas-tyyliin",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Okraa tomaattikastikkeessa g ve",
-        "price": "",
+        "name": "Tahini-kukkakaalia g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Lohiwallenberg, paahdettuja valkosipuli-tilliperunoita, mummonkurkkua ja beurre blanc",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Falafelia, hummusta, chimichurria ja höyrytettyä riisiä granaattiomenalla",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Pekonijuustohampurilainen",
+        "price": "18,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Heifer flank steak 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi 180g",
+        "price": "44,00€",
+        "tags": []
+      },
+      {
+        "name": "Heifer ulkofile fi 250g",
+        "price": "48,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote 300g",
+        "price": "57,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Paahdettuja tilli-valkosipuliperunoita",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Tumma paahdettu valkosipulikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Beurre blanc",
         "price": "",
         "tags": []
       }
