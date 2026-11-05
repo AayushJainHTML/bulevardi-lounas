@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-11-04T20:28:51.780999+02:00",
-  "date": "4.11.",
+  "fetchedAt": "2026-11-05T16:50:34.268401+02:00",
+  "date": "5.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Syksyinen kaalikeitto",
+        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Pad thai kanalla – thaimaan klassikko, paistettuja riisinuudeleita, kasviksia sekä talon pad thai -kastiketta m g pähkinä, kala",
+        "name": "Savutaimenta, tilliperunaa, hölskykurkkuja ja ruohosipuli-kermaviilikastiketta",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Pad thai tofulla – thaimaan klassikko, paistettuja riisinuudeleita, kasviksia sekä talon pad thai -kastiketta",
+        "name": "Ruiskuorrutettua savutofua, tilliperunaa, hölskykurkkuja ja ruohosipuli-kermaviilikastiketta",
         "price": "14,90€",
         "tags": [
           "V"
@@ -49,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammastagine",
+        "name": "Naudanlihapata",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tagine ve",
-        "price": "",
+        "name": "Punainen kasviscurry g ve",
+        "price": "14,50€",
         "tags": []
       }
     ],
