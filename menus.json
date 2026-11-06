@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-11-05T20:31:54.166991+02:00",
-  "date": "5.11.",
+  "fetchedAt": "2026-11-06T16:28:27.046285+02:00",
+  "date": "6.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Hernekeitto, palvikinkkua, tuoretta sipulia ja sinappia",
+        "name": "Syksyn kesäkeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Savutaimenta, tilliperunaa, hölskykurkkuja ja ruohosipuli-kermaviilikastiketta",
+        "name": "Southern fried chicken -rapeaa kanaa tulisen kastikkeen kanssa, perinteinen mac and cheese ja raikas omenaslaw",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Ruiskuorrutettua savutofua, tilliperunaa, hölskykurkkuja ja ruohosipuli-kermaviilikastiketta",
+        "name": "Southern style veggie -rapea soijaleike tulisen kastikkeen kanssa, perinteinen mac and cheese ja raikas omena-slaw",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Naudan paahtopaistia, paahdettua myskikurpitsapyrettä, rosmariiniperunaa ja cafe de paris -kastiketta",
@@ -49,13 +47,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
-        "price": "14,50€",
+        "name": "Fridfay grill fiesta: hiiligrillattua kanaa",
+        "price": "15,50€",
         "tags": []
       },
       {
-        "name": "Punainen kasviscurry g ve",
-        "price": "14,50€",
+        "name": "Grillattuja kasviksia g ve",
+        "price": "15,50€",
         "tags": []
       }
     ],
