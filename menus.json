@@ -1,26 +1,24 @@
 {
-  "fetchedAt": "2026-11-09T23:18:03.415115+02:00",
-  "date": "9.11.",
+  "fetchedAt": "2026-11-10T17:06:07.646030+02:00",
+  "date": "10.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Paahteinen juureskeitto",
+        "name": "Kasvis-chilikeitto",
         "price": "12,90€",
         "tags": [
           "V"
         ]
       },
       {
-        "name": "Chilipestolla marinoitua kanaa sekä tortellineja pinaatti-parmesan kastikkeen kanssa",
+        "name": "Grillattuja porsaankasslerpihvejä, piparjuurikreemiä ja paahtojuureksia",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kurpitsa wellington sekä tortellineja pinaatti-parmesan kastikkeen kanssa",
+        "name": "Punajuuri-vuohenjuustopihvejä, piparjuuri kreemiä ja paahtojuureksia",
         "price": "14,90€",
-        "tags": [
-          "V"
-        ]
+        "tags": []
       },
       {
         "name": "Mureaa naudan etuselkää, punaviinikastiketta, paahtojuureksia ja tryffeli-sienipyree",
@@ -49,14 +47,99 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Ei lounasta tänään",
+        "name": "Kanatagine",
+        "price": "14,50€",
+        "tags": []
+      },
+      {
+        "name": "Tagine ve",
         "price": "",
         "tags": []
       }
     ],
     "ravintola-lonkka": [
       {
-        "name": "Päivän lounaslista puuttuu palvelusta",
+        "name": "Pitkään kypsytettyä hanger steakia fi, nduja-kastiketta, perunamuusia ja paahdettuja porkkanoita",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Sienipastaa, parmesaanilla ja yrttisalaatilla",
+        "price": "14,00€",
+        "tags": []
+      },
+      {
+        "name": "Fetajuustoburgeri",
+        "price": "18,50€",
+        "tags": []
+      },
+      {
+        "name": "Viikon lounaspihvit",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Hieho flank steak nl 200g",
+        "price": "25,00€",
+        "tags": []
+      },
+      {
+        "name": "Naudan sisäfilepihvi fi 180g",
+        "price": "44,00€",
+        "tags": []
+      },
+      {
+        "name": "Hieho ulkofile fi 250g",
+        "price": "48,00€",
+        "tags": []
+      },
+      {
+        "name": "Marmori entrecote fi 300g",
+        "price": "57,00€",
+        "tags": []
+      },
+      {
+        "name": "Valitse lisuke",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Vihersalaatti",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Ranskalaiset ja ketsuppi",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Perunamuusia ja paahdettuja porkkanoita",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Valitse kastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Tumma paahdettu valkosipulikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Dijon- pippurikastike",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Punainen chimichurri",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "Nduja-kastiketta",
         "price": "",
         "tags": []
       }
