@@ -1,20 +1,22 @@
 {
-  "fetchedAt": "2026-11-11T20:24:14.343405+02:00",
-  "date": "11.11.",
+  "fetchedAt": "2026-11-12T17:28:54.882014+02:00",
+  "date": "12.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Broccoli-cheddarkeitto",
+        "name": "Hernekeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Ruiskuorrutetut muikut, valkosipulikastike, perunamuusia ja mummon kurkkuja",
+        "name": "Jamaikalaista jerk kanaa, paistettua riisiä ja papuja sekä avokadokastike",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Ruiskuorrutettua rapeaa savutofua, valkosipulikastike, perunamuusia ja mummon kurkkuja",
+        "name": "Jamaikalaista jerk tofua, paistettua riisiä ja papuja sekä avokadokastike",
         "price": "14,90€",
         "tags": [
           "V"
@@ -47,12 +49,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta ja voipapuja",
-        "price": "14,50€",
+        "name": "Vihreitä papuja ja naudanlihaa tomaatti-basilikakastikkeessa",
+        "price": "",
         "tags": []
       },
       {
-        "name": "Okraa tomaattikastikkeessa g ve",
+        "name": "Teriyaki-kasvikset g ve",
         "price": "",
         "tags": []
       }
