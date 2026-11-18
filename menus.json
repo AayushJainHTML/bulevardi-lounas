@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-17T21:38:16.994026+02:00",
-  "date": "17.11.",
+  "fetchedAt": "2026-11-18T17:52:45.166960+02:00",
+  "date": "18.11.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Kanakufta",
+        "name": "Lammasta jogurttikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Teriyaki-kasvikset g ve",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
         "price": "",
         "tags": []
       }
@@ -136,12 +136,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Silakkapihvit, pinaattikastike ja perunamuusil",
+        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Lihakaalilaatikko ja puolukkahillogl",
+        "name": "Hinta:",
         "price": "14,00€",
         "tags": []
       },
