@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-18T21:14:49.713590+02:00",
-  "date": "18.11.",
+  "fetchedAt": "2026-11-19T17:56:42.086597+02:00",
+  "date": "19.11.",
   "menus": {
     "southpark": [
       {
@@ -25,12 +25,12 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Lammasta jogurttikastikkeessa",
+        "name": "Punainen kanacurry",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "name": "Bulguria tomaattikastikkeessa ve",
         "price": "",
         "tags": []
       }
@@ -131,33 +131,18 @@
     ],
     "salve": [
       {
-        "name": "Hinta:  Lounaskeitto",
+        "name": "Hinta:  Hernekeitto",
         "price": "11,90€",
         "tags": []
       },
       {
-        "name": "Hinta:  Uunisei juustokastikkeella ja perunamuusillagl",
+        "name": "Hinta:  Kirjolohta, choron-kastiketta ja ranskanperunoitagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:",
+        "name": "Hinta:  Lihapullia, kermakastiketta ja perunamuusiagl",
         "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Katkarapupastal",
-        "price": "13,50€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Vegemaggara, ranskanperunat ja aioligve",
-        "price": "14,00€",
-        "tags": []
-      },
-      {
-        "name": "Hinta:  Metsästäjänleike, sienikastiketta ja perunamuusial",
-        "price": "22,00€",
         "tags": []
       }
     ]
