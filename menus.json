@@ -1,22 +1,26 @@
 {
-  "fetchedAt": "2026-11-24T22:59:39.734061+02:00",
-  "date": "24.11.",
+  "fetchedAt": "2026-11-25T19:28:57.905803+02:00",
+  "date": "25.11.",
   "menus": {
     "southpark": [
       {
-        "name": "Toscanalainen kaali-papukeitto ja parmesania",
+        "name": "Vietnamilaistyylinen nuudelikeitto",
         "price": "12,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
-        "name": "Paahdetulla kermaisella chipotle-kanasalaatilla täytettyä uuniperunaa ja paistettua valkosipulileipää",
+        "name": "Klassinen burgundinpata – eli pitkään haudutettua nautaa punaviinissä, pekonia sekä muhennettua persiljaperunaa",
         "price": "14,90€",
         "tags": []
       },
       {
-        "name": "Kermainen chipotle-kikhernesalaatti, uuniperunaa ja paistettua valkosipulileipää",
+        "name": "Kasvisburgundi – hernistä ja herkkusieniä haudutettuna sekä",
         "price": "14,90€",
-        "tags": []
+        "tags": [
+          "V"
+        ]
       },
       {
         "name": "Mureaa ibericoporsaan niskaa, sherrykastiketta, palsternakkapyreetä, porkkanoita ja lehtikaalia",
@@ -45,13 +49,13 @@
     ],
     "levant-bulevardi": [
       {
-        "name": "Naudanlihapata",
+        "name": "Lammasta jogurttikastikkeessa",
         "price": "14,50€",
         "tags": []
       },
       {
-        "name": "Tahini-kukkakaalia g ve",
-        "price": "14,50€",
+        "name": "Munakoisoa tomaatti-basilikakastikkeessa g ve",
+        "price": "",
         "tags": []
       }
     ],
@@ -156,12 +160,12 @@
         "tags": []
       },
       {
-        "name": "Hinta:  Paneroitua turskaa tilli-kurkkukastikkeella ja perunamuusial",
+        "name": "Hinta:  Talon mantelikalaa ja perunamuusiagl",
         "price": "14,60€",
         "tags": []
       },
       {
-        "name": "Hinta:  Kermassa haudutettuja kaalikääryleitä ja perunamuusiagl",
+        "name": "Hinta:  Broileria choron-kastikkeella ja ranskanperunoillagl",
         "price": "14,00€",
         "tags": []
       },
